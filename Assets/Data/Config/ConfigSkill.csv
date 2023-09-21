@@ -1,0 +1,11 @@
+id,name,heroId,propertyId,prefabName,posAppear,turnCount,prefabCount
+1,Healing,1,1,AutobotSkill,1,1,1
+2,Blade Mail,2,2,CastukySkill,1,4,3
+3,Dynamite,3,2,ChickySkill,0,4,2
+4,Wood shield,4,1,BigBoarSkill ,1,4,2
+5,Bite,5,"1,2",CrocoSkill,0,1,2
+6,Minions,6,2,Alpha-Xskill,0,1,1
+7,Tiny Angel,7,3,BunnieSkill,2,1,1
+8,Burning Spear,8,"1,2",SpartanBoySkill,1,1,3
+9,Vitamin Sea,9,"1,2",SharkerSkill,1,1,3
+10,Summon,10,2,SmushSkill,0,3,2

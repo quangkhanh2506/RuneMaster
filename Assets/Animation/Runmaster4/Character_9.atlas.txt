@@ -1,0 +1,384 @@
+
+Character_9.png
+size: 1668,1667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1_Hand_1
+  rotate: false
+  xy: 1361, 128
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: false
+  xy: 1361, 51
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character9_Body
+  rotate: false
+  xy: 1365, 624
+  size: 182, 187
+  orig: 182, 187
+  offset: 0, 0
+  index: -1
+Character9_Body2
+  rotate: true
+  xy: 1063, 32
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+Character9_Body2_1
+  rotate: false
+  xy: 1403, 1211
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+Character9_Body2_2
+  rotate: true
+  xy: 1465, 457
+  size: 165, 93
+  orig: 165, 93
+  offset: 0, 0
+  index: -1
+Character9_Eyes_2
+  rotate: true
+  xy: 1531, 1208
+  size: 74, 118
+  orig: 74, 118
+  offset: 0, 0
+  index: -1
+Character9_Head
+  rotate: false
+  xy: 1193, 56
+  size: 166, 130
+  orig: 166, 130
+  offset: 0, 0
+  index: -1
+Character9_Head2
+  rotate: true
+  xy: 1465, 330
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Character9_Head3
+  rotate: true
+  xy: 1465, 203
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Character9_Leg_1
+  rotate: true
+  xy: 1487, 1129
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character9_Leg_2
+  rotate: true
+  xy: 1487, 1047
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 1193, 34
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Eye_10
+  rotate: false
+  xy: 1101, 1
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 1487, 1006
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: false
+  xy: 1487, 856
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Eye_4
+  rotate: true
+  xy: 1487, 890
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Eye_5
+  rotate: true
+  xy: 1649, 1635
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Eye_6
+  rotate: false
+  xy: 1487, 928
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Eye_7
+  rotate: false
+  xy: 1365, 611
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_8
+  rotate: false
+  xy: 1134, 3
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Eye_9
+  rotate: false
+  xy: 1063, 3
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: false
+  xy: 1487, 963
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00000
+  rotate: false
+  xy: 1, 812
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00001
+  rotate: false
+  xy: 1, 410
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00002
+  rotate: false
+  xy: 1, 8
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00003
+  rotate: true
+  xy: 197, 1210
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00004
+  rotate: true
+  xy: 599, 1210
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00005
+  rotate: true
+  xy: 1001, 1210
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop_00006
+  rotate: false
+  xy: 1063, 204
+  size: 154, 400
+  orig: 154, 400
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00000
+  rotate: false
+  xy: 197, 1366
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00001
+  rotate: false
+  xy: 499, 1366
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00002
+  rotate: false
+  xy: 801, 1366
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00003
+  rotate: false
+  xy: 1103, 1366
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00004
+  rotate: false
+  xy: 157, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00005
+  rotate: false
+  xy: 157, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00006
+  rotate: false
+  xy: 157, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00007
+  rotate: false
+  xy: 157, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00008
+  rotate: false
+  xy: 459, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00009
+  rotate: false
+  xy: 459, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00010
+  rotate: false
+  xy: 459, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00011
+  rotate: false
+  xy: 459, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00012
+  rotate: false
+  xy: 761, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00013
+  rotate: false
+  xy: 761, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00014
+  rotate: false
+  xy: 1063, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00015
+  rotate: false
+  xy: 761, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00016
+  rotate: false
+  xy: 1063, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Liquid 040 Splash Up_00017
+  rotate: false
+  xy: 761, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV1
+  rotate: false
+  xy: 1351, 220
+  size: 112, 384
+  orig: 112, 384
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV2
+  rotate: false
+  xy: 1405, 1283
+  size: 120, 383
+  orig: 120, 383
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV3
+  rotate: false
+  xy: 1527, 1284
+  size: 120, 382
+  orig: 120, 382
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV4
+  rotate: false
+  xy: 1365, 813
+  size: 120, 395
+  orig: 120, 395
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV5
+  rotate: false
+  xy: 1219, 188
+  size: 130, 416
+  orig: 130, 416
+  offset: 0, 0
+  index: -1
+Weapons_Character9_LV5shadow
+  rotate: false
+  xy: 1, 1214
+  size: 194, 452
+  orig: 194, 452
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+Weapons_Character_5.png
+size: 824,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapons_Character5_LV1_1
+  rotate: true
+  xy: 300, 265
+  size: 265, 273
+  orig: 265, 273
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV2_1
+  rotate: true
+  xy: 297, 1
+  size: 262, 269
+  orig: 262, 269
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV2_11
+  rotate: false
+  xy: 692, 727
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV3_1
+  rotate: false
+  xy: 300, 532
+  size: 275, 291
+  orig: 275, 291
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV3_11
+  rotate: false
+  xy: 1, 120
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV4_1
+  rotate: false
+  xy: 1, 226
+  size: 294, 295
+  orig: 294, 295
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV4_11
+  rotate: false
+  xy: 577, 717
+  size: 113, 106
+  orig: 113, 106
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV5_1
+  rotate: false
+  xy: 1, 523
+  size: 297, 300
+  orig: 297, 300
+  offset: 0, 0
+  index: -1
+Weapons_Character5_LV5_111
+  rotate: false
+  xy: 577, 612
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1

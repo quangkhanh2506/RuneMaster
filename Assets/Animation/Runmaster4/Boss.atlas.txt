@@ -1,0 +1,139 @@
+
+Boss.png
+size: 455,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss_Body
+  rotate: false
+  xy: 1, 257
+  size: 190, 197
+  orig: 190, 197
+  offset: 0, 0
+  index: -1
+Boss_Cheek
+  rotate: true
+  xy: 415, 256
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+Boss_Eye_1_2
+  rotate: false
+  xy: 370, 390
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+Boss_Eye_2_2
+  rotate: false
+  xy: 323, 62
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+Boss_Eyes_1_1
+  rotate: true
+  xy: 139, 37
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+Boss_Horn
+  rotate: false
+  xy: 139, 132
+  size: 135, 111
+  orig: 135, 111
+  offset: 0, 0
+  index: -1
+Boss_Leg_1
+  rotate: false
+  xy: 1, 6
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Boss_Leg_2
+  rotate: false
+  xy: 333, 257
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Boss_Mouth
+  rotate: false
+  xy: 193, 323
+  size: 175, 131
+  orig: 175, 131
+  offset: 0, 0
+  index: -1
+Boss_Mouth2
+  rotate: false
+  xy: 236, 40
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+Boss_back ear
+  rotate: false
+  xy: 353, 190
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Boss_ear
+  rotate: true
+  xy: 323, 1
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Boss_wing
+  rotate: false
+  xy: 1, 47
+  size: 136, 208
+  orig: 136, 208
+  offset: 0, 0
+  index: -1
+Character1_Hand_1
+  rotate: false
+  xy: 370, 298
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: true
+  xy: 276, 149
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character6_Eyes_5
+  rotate: false
+  xy: 83, 11
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Eye_7
+  rotate: false
+  xy: 276, 136
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: true
+  xy: 353, 157
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 193, 245
+  size: 138, 76
+  orig: 138, 76
+  offset: 0, 0
+  index: -1

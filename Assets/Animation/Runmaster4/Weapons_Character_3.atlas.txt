@@ -1,0 +1,111 @@
+
+Weapons_Character_3.png
+size: 312,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapons_Character3_Arrow_LV1
+  rotate: false
+  xy: 1, 123
+  size: 254, 46
+  orig: 254, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV1_1
+  rotate: false
+  xy: 1, 38
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV1_2
+  rotate: false
+  xy: 1, 1
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2
+  rotate: false
+  xy: 1, 75
+  size: 254, 46
+  orig: 254, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2_1
+  rotate: true
+  xy: 260, 25
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2_2
+  rotate: true
+  xy: 275, 241
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3
+  rotate: false
+  xy: 1, 171
+  size: 268, 44
+  orig: 268, 44
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3_1
+  rotate: false
+  xy: 75, 38
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3_2
+  rotate: false
+  xy: 75, 1
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4
+  rotate: false
+  xy: 1, 217
+  size: 270, 46
+  orig: 270, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4_1
+  rotate: false
+  xy: 149, 38
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4_2
+  rotate: false
+  xy: 149, 1
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5
+  rotate: false
+  xy: 1, 265
+  size: 272, 46
+  orig: 272, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5_1
+  rotate: true
+  xy: 223, 1
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5_2
+  rotate: true
+  xy: 257, 97
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+id,name,price,unlockBy,prefabName
+1,Autobot,0,1,icon_0
+2,Castuky,500,1,icon_1
+3,Chicky,1000,1,icon_2
+4,Big Boar ,2000,1,icon_3
+5,Croco,3500,1,icon_4
+6,Alpha-X,5000,1,icon_5
+7,Bunnie,7000,1,icon_6
+8,Spartan Boy,0,4,icon_7
+9,Sharker,9500,1,icon_8
+10,Smush,12000,1,icon_9

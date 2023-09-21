@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:46136846e7f190a5258aa0f579e22cc3:937ba86c07d1aa358ddde6dc0f61b3d9:853c9e0df8cc52c3e35a9d6602a7eacd$
+#
+:format=40300
+:texture=theme_3.png
+:size=840x964
+:pivotpoints=enabled
+:borders=disabled
+
+foreground_enemy_3;543;540;282;183; 0.5;0.5; 0;0;0;0; 9;282;132;209;56;168;0;128;0;116;5;70;44;0;140;0;183;282;183; 7;1;7;8;6;7;1;6;1;5;4;5;1;1;2;3;1;3;4;0;1;8
+foreground_player_3;543;725;294;238; 0.5;0.5; 0;0;0;0; 9;294;189;220;59;161;0;125;0;111;10;52;87;0;184;0;238;294;238; 7;0;7;8;0;6;7;0;5;6;1;4;5;2;3;4;1;2;4;0;1;5
+theme_3;1;3;540;960; 0.5;0.5; 0;0;0;0; 4;540;0;0;0;0;960;540;960; 2;1;2;3;0;1;3

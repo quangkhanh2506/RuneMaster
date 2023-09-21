@@ -1,0 +1,3125 @@
+fileFormatVersion: 2
+guid: 858d63f43d68f7a4c9f833e665dd40a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icons
+  - first:
+      213: 21300002
+    second: achievement_0
+  - first:
+      213: 21300004
+    second: achievement_1
+  - first:
+      213: 21300006
+    second: achievement_2
+  - first:
+      213: 21300008
+    second: achievement_3
+  - first:
+      213: 21300010
+    second: achievement_4
+  - first:
+      213: 21300012
+    second: achievement_5
+  - first:
+      213: 21300014
+    second: achievement_6
+  - first:
+      213: 21300016
+    second: achievement_7
+  - first:
+      213: 21300018
+    second: achievement_8
+  - first:
+      213: 21300020
+    second: achievement_9
+  - first:
+      213: 21300022
+    second: achievement_10
+  - first:
+      213: 21300024
+    second: achievement_11
+  - first:
+      213: 21300026
+    second: achievement_12
+  - first:
+      213: 21300028
+    second: achievement_13
+  - first:
+      213: 21300030
+    second: achievement_14
+  - first:
+      213: 21300032
+    second: achievement_15
+  - first:
+      213: 21300034
+    second: achievement_16
+  - first:
+      213: 21300036
+    second: achievement_17
+  - first:
+      213: 21300038
+    second: achievement_18
+  - first:
+      213: 21300040
+    second: achievement_19
+  - first:
+      213: 21300042
+    second: achievement_20
+  - first:
+      213: 21300044
+    second: achievement_21
+  - first:
+      213: 21300046
+    second: achievement_22
+  - first:
+      213: 21300048
+    second: achievement_23
+  - first:
+      213: 21300050
+    second: achievement_24
+  - first:
+      213: 21300052
+    second: achievement_25
+  - first:
+      213: 21300054
+    second: achievement_26
+  - first:
+      213: 21300056
+    second: achievement_27
+  - first:
+      213: 21300058
+    second: achievement_28
+  - first:
+      213: 21300060
+    second: achievement_29
+  - first:
+      213: 21300062
+    second: achievement_30
+  - first:
+      213: 21300064
+    second: achievement_31
+  - first:
+      213: 21300066
+    second: achievement_32
+  - first:
+      213: 21300068
+    second: achievement_33
+  - first:
+      213: 21300070
+    second: achievement_34
+  - first:
+      213: 21300072
+    second: achievement_35
+  - first:
+      213: 21300074
+    second: achievement_36
+  - first:
+      213: 21300076
+    second: achievement_37
+  - first:
+      213: 21300078
+    second: achievement_38
+  - first:
+      213: 21300080
+    second: achievement_39
+  - first:
+      213: 21300082
+    second: achievement_40
+  - first:
+      213: 21300084
+    second: achievement_41
+  - first:
+      213: 21300086
+    second: achievement_42
+  - first:
+      213: 21300088
+    second: achievement_43
+  - first:
+      213: 21300090
+    second: achievement_44
+  - first:
+      213: 21300092
+    second: achievement_45
+  - first:
+      213: 21300094
+    second: achievement_46
+  - first:
+      213: 21300096
+    second: achievement_47
+  - first:
+      213: 21300098
+    second: achievement_48
+  - first:
+      213: 21300100
+    second: achievement_49
+  - first:
+      213: 21300102
+    second: achievement_50
+  - first:
+      213: 21300104
+    second: achievement_51
+  - first:
+      213: 21300106
+    second: achievement_52
+  - first:
+      213: 21300108
+    second: achievement_53
+  - first:
+      213: 21300110
+    second: achievement_54
+  - first:
+      213: 21300112
+    second: achievement_55
+  - first:
+      213: 21300114
+    second: achievement_56
+  - first:
+      213: 21300116
+    second: achievement_57
+  - first:
+      213: 21300118
+    second: achievement_58
+  - first:
+      213: 21300120
+    second: achievement_59
+  - first:
+      213: 21300122
+    second: achievement_60
+  - first:
+      213: 21300124
+    second: achievement_61
+  - first:
+      213: 21300126
+    second: achievement_62
+  - first:
+      213: 21300128
+    second: achievement_63
+  - first:
+      213: 21300130
+    second: achievement_64
+  - first:
+      213: 21300132
+    second: achievement_65
+  - first:
+      213: 21300134
+    second: achievement_66
+  - first:
+      213: 21300136
+    second: achievement_67
+  - first:
+      213: 21300138
+    second: achievement_68
+  - first:
+      213: 21300140
+    second: emo_set_0_0
+  - first:
+      213: 21300142
+    second: emo_set_0_1
+  - first:
+      213: 21300144
+    second: emo_set_0_2
+  - first:
+      213: 21300146
+    second: emo_set_0_3
+  - first:
+      213: 21300148
+    second: emo_set_1_0
+  - first:
+      213: 21300150
+    second: emo_set_1_1
+  - first:
+      213: 21300152
+    second: emo_set_1_2
+  - first:
+      213: 21300154
+    second: emo_set_1_3
+  - first:
+      213: 21300156
+    second: emo_set_2_0
+  - first:
+      213: 21300158
+    second: emo_set_2_1
+  - first:
+      213: 21300160
+    second: emo_set_2_2
+  - first:
+      213: 21300162
+    second: emo_set_2_3
+  - first:
+      213: 21300164
+    second: emo_set_3_0
+  - first:
+      213: 21300166
+    second: emo_set_3_1
+  - first:
+      213: 21300168
+    second: emo_set_3_2
+  - first:
+      213: 21300170
+    second: emo_set_3_3
+  - first:
+      213: 21300172
+    second: emo_set_4_0
+  - first:
+      213: 21300174
+    second: emo_set_4_1
+  - first:
+      213: 21300176
+    second: emo_set_4_2
+  - first:
+      213: 21300178
+    second: emo_set_4_3
+  - first:
+      213: 21300180
+    second: emo_set_5_0
+  - first:
+      213: 21300182
+    second: emo_set_5_1
+  - first:
+      213: 21300184
+    second: emo_set_5_2
+  - first:
+      213: 21300186
+    second: emo_set_5_3
+  - first:
+      213: 21300188
+    second: emo_set_6_0
+  - first:
+      213: 21300190
+    second: emo_set_6_1
+  - first:
+      213: 21300192
+    second: emo_set_6_2
+  - first:
+      213: 21300194
+    second: emo_set_6_3
+  - first:
+      213: 21300196
+    second: emo_set_7_0
+  - first:
+      213: 21300198
+    second: emo_set_7_1
+  - first:
+      213: 21300200
+    second: emo_set_7_2
+  - first:
+      213: 21300202
+    second: emo_set_7_3
+  - first:
+      213: 21300204
+    second: emo_set_8_0
+  - first:
+      213: 21300206
+    second: emo_set_8_1
+  - first:
+      213: 21300208
+    second: emo_set_8_2
+  - first:
+      213: 21300210
+    second: emo_set_8_3
+  - first:
+      213: 21300212
+    second: emo_set_9_0
+  - first:
+      213: 21300214
+    second: emo_set_9_1
+  - first:
+      213: 21300216
+    second: emo_set_9_2
+  - first:
+      213: 21300218
+    second: emo_set_9_3
+  - first:
+      213: 21300220
+    second: icon_skill_0
+  - first:
+      213: 21300222
+    second: icon_skill_1
+  - first:
+      213: 21300224
+    second: icon_skill_2
+  - first:
+      213: 21300226
+    second: icon_skill_3
+  - first:
+      213: 21300228
+    second: icon_skill_4
+  - first:
+      213: 21300230
+    second: icon_skill_5
+  - first:
+      213: 21300232
+    second: icon_skill_6
+  - first:
+      213: 21300234
+    second: icon_skill_7
+  - first:
+      213: 21300236
+    second: icon_skill_8
+  - first:
+      213: 21300238
+    second: icon_skill_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: achievement_0
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332646b7f4dfb6445a2136dbde4c514a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa72181d113d7144aced7e57a6ccd9e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a019b61c687a4c880d2d790e987c2
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeb883dd5b3c5d4daddb7d7565b3b8d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25409e193f32d47961664a903d39ac
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d139ef341119dd46bfeda735b0c98ab
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a0d383e70116847bcd9dfc115d3479
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 137
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef472ef52e6cf6447a81224d7f57c8ff
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_8
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 55
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad3778d310fe2340b980475243c337f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 55
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc8f16fa1a64ba4fa19703ae01fcfca
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c693674032f6429764ab59068197a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c1ea57b12fcb94ca3d9fc99703992c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb0a5b0d7d8a6140a927bb522f00587
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38872198734894b4b9fbe29395c190ab
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 577
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f2254e4043294aa39b7a5d66d0022
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc57a38dc775f6945bc806c70922c708
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da62e0cbf7f454091022d784ee1d1e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c16541d0eeee4183c736412356675
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_18
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88621ab00b2c54349a1162a9d024d428
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27424b782cca164596e6140bb51c5a0
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_20
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 495
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4f3e563f28964ca7a2c12e272f80d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7adf831b86d341ac39afb90b04a02
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecef7886646c8747b536ac8ea94b3f5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ddef96c5f2af4cb56c714f47bf3c6
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79056577a696de34f8ed3b361dae94c7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 638
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f708baf0ea89e64e8282d86312e9cfd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f95731d89df334098b34261bfc4d30
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9228116cea6c5c744b6e19c2be251497
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810cb3847c0050458af97f97d9d0128
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b423343d1181c445bec148e18293ad9
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2d5a415703374996c3cc80f80507f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6db99760664e0478d2d3ecb27a4589
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf7be312a1d0a4aa7272e113d503cb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_33
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b37280949801de449d61697078637a5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48097fa6cf2ba954693aad6e2d9fc7bf
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b1bb0b52da46b46a9274ab7b7d9a03
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb9f488225e074494ddd945cc46cd9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92129cda47d2db948903250d024f1c4a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_38
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585623fafae33a4fa18d29c2aac44c8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_39
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3197276f7b8f404ba991900d959359a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_40
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1a9f802576bd47b0e2f3e81158205
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_41
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3af59789b0305438a651eb4855fe78
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9208799c8231594a9fd662917556be5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_43
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1322413e5ac54dbfe6c308f42b9c5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_44
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 413
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eb67fac53dda04182efdf6657c428c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67306baae0721884eb3c755b39a2e02d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983bd442d4f10e948a2ba7bb34bab532
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_47
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d207a71910e943b11255c717d985c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_48
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 331
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94c3a280d0e4047b3091f24efc5145
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_49
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a15bdc233fae848ac2bfcc3bff9542
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_50
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 249
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c0b5347470f44c84b0323d0f6da62
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_51
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082bda915a0c7d4c8f88090be457081
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_52
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 167
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda6708d5086f4428ed7c7cd426c12c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_53
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 85
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b898637245694cbe76549c227f247
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb2dd3852afad4c8b90ed426910d20
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa664440aeffe343bd0176cc82d72d6
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_56
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b55ff5c5264c4984f36c778cf7fc6
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_57
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a427af9f722f6fd4b97a1d658f3bf75d
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_58
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791a269e74ce3c4dbad852399c44ba2
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_59
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e50260ed7deab409a2d020be967be9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_60
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 547
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f25b37be1c0b46b003a312fa86dd1
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_61
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 465
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd455e669c15413448e4d8755293a6e3
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_62
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 383
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023a92f1cf7cf642a047b547b8448fa
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_63
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 383
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ebb7292111fb4bb8726c36407df00
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_64
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 301
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e3b767fe5b934fa8a38c512a55643
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_65
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 301
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b23837ed5f06634d97d8411f07e299f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_66
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 219
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071c9afda1dcfa479a1e3ec9835be96
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_67
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 219
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6997f4b4dd3ad974ebf83bcc3befdfd4
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement_68
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 137
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85d53a02cd4284e9b123a001d791d1
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_0_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 536
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c72a508b9ffd44a32062831bd0fb5
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_0_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b34cd24f9a28b4c8957ff2428f80dc
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_0_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41cd30c0c9341245a14c7860987f853
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_0_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 536
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bd036fc10cdf64c8e3d0389a97cc1b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_1_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6779e9811fb2e40a555d4c6514f8f3
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_1_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837fdf3d02753884aa050073ad6df692
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_1_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d4f5155985fa4bad4dbb1bba063d2
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_1_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2ac96e207e9f4e96f661b7f7ad0ba
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_2_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 536
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345685f365cf5746ad5fc33c90fe32f
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_2_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29133fc95eeda984793c339cb508d448
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_2_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893aaa8c7f1482a4abfd62e937488505
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_2_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a57fe403bf95408ab1ef816266015
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20609ae7aefc6844ab1b5240cde7ad83
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_3_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 332
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1af9e8eecedf4a8b7134141475e9e
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_3_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742b072190e0a8747ab58640433256b5
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_3_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c6bf9933b1b34c8e76f3483bc53d4
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_4_0
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf2b6e3053796a4da06965249f17b76
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_4_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d8e305e5a1a8446b57018e1eda8b39
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_4_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709876c1543073b458ac916567dfdd96
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_4_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 230
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9196c0bc64d5f44393a88585c84639f
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_5_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 332
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227e2566d79c3e4ca0f5d286456cddd
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_5_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c1c5ffd410ec34a87ad8e990e0be82
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_5_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8914883f2f0fd10468177e01d45d63cd
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_5_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370b3e011d509884086f8a5ac5ada59b
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_6_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127231b232fbd2140bd13a048afa152d
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_6_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6b56ea820dcc4d9890aa1a109dcac
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_6_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447607d6e813d634eb924cac76cef8f8
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_6_3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ba7b8073c77949a8bdd3b9f114339
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_7_0
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad273d51e87682408072076f8d5fabd
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_7_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a8a86b9728cf4489a3b6181e6ef27b
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_7_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6fb24bf90617d46a0c91b3e1cac967
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_7_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 128
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57dd368a760904db9881f093c0ac97
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_8_0
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa073d6b90f014cb94b8fcf64aff8b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_8_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464653e2e7e26b049bedc8af12cacfff
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_8_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 863
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef61ff6833f92248b5f5a5b6c6bb941
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_8_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 26
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46f3daf413c2a48bb2270785248c6c
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_9_0
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78556310618f888419c3d5a54ccf838f
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_9_1
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 761
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3df119c09ae3249b511e03c402706b
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_9_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 659
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a0d51266057840a15bc1c730453ef
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo_set_9_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 536
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5c961e5b33174c98c85d56e9384ca
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_0
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 881
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681da44c7920c0a43a9f8c77c7c24acd
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 797
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fd0ee59be835d409925f3c57b39e9e
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 713
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59f69342772354ea403fb74bd3049e
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 629
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582166787eb15541a1ad6405e68fa8a
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 452
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ea6ee6f98dc449aa792c01b87d106
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 368
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4db5770e40f4478006b06d28b0952
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 284
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398b6a2a5b1e2454490c0a981ff62b26
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 200
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3508d764aa55f43a4501d77e3e1ea9
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 116
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cdff97f5b3f2642a452c26dc7cee5f
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_skill_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 32
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9c6f97f0dd66c4080f0b648c6b4362
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b7a05004ada41b419f4b27421f18106
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      achievement_0: 21300002
+      achievement_1: 21300004
+      achievement_10: 21300022
+      achievement_11: 21300024
+      achievement_12: 21300026
+      achievement_13: 21300028
+      achievement_14: 21300030
+      achievement_15: 21300032
+      achievement_16: 21300034
+      achievement_17: 21300036
+      achievement_18: 21300038
+      achievement_19: 21300040
+      achievement_2: 21300006
+      achievement_20: 21300042
+      achievement_21: 21300044
+      achievement_22: 21300046
+      achievement_23: 21300048
+      achievement_24: 21300050
+      achievement_25: 21300052
+      achievement_26: 21300054
+      achievement_27: 21300056
+      achievement_28: 21300058
+      achievement_29: 21300060
+      achievement_3: 21300008
+      achievement_30: 21300062
+      achievement_31: 21300064
+      achievement_32: 21300066
+      achievement_33: 21300068
+      achievement_34: 21300070
+      achievement_35: 21300072
+      achievement_36: 21300074
+      achievement_37: 21300076
+      achievement_38: 21300078
+      achievement_39: 21300080
+      achievement_4: 21300010
+      achievement_40: 21300082
+      achievement_41: 21300084
+      achievement_42: 21300086
+      achievement_43: 21300088
+      achievement_44: 21300090
+      achievement_45: 21300092
+      achievement_46: 21300094
+      achievement_47: 21300096
+      achievement_48: 21300098
+      achievement_49: 21300100
+      achievement_5: 21300012
+      achievement_50: 21300102
+      achievement_51: 21300104
+      achievement_52: 21300106
+      achievement_53: 21300108
+      achievement_54: 21300110
+      achievement_55: 21300112
+      achievement_56: 21300114
+      achievement_57: 21300116
+      achievement_58: 21300118
+      achievement_59: 21300120
+      achievement_6: 21300014
+      achievement_60: 21300122
+      achievement_61: 21300124
+      achievement_62: 21300126
+      achievement_63: 21300128
+      achievement_64: 21300130
+      achievement_65: 21300132
+      achievement_66: 21300134
+      achievement_67: 21300136
+      achievement_68: 21300138
+      achievement_7: 21300016
+      achievement_8: 21300018
+      achievement_9: 21300020
+      emo_set_0_0: 21300140
+      emo_set_0_1: 21300142
+      emo_set_0_2: 21300144
+      emo_set_0_3: 21300146
+      emo_set_1_0: 21300148
+      emo_set_1_1: 21300150
+      emo_set_1_2: 21300152
+      emo_set_1_3: 21300154
+      emo_set_2_0: 21300156
+      emo_set_2_1: 21300158
+      emo_set_2_2: 21300160
+      emo_set_2_3: 21300162
+      emo_set_3_0: 21300164
+      emo_set_3_1: 21300166
+      emo_set_3_2: 21300168
+      emo_set_3_3: 21300170
+      emo_set_4_0: 21300172
+      emo_set_4_1: 21300174
+      emo_set_4_2: 21300176
+      emo_set_4_3: 21300178
+      emo_set_5_0: 21300180
+      emo_set_5_1: 21300182
+      emo_set_5_2: 21300184
+      emo_set_5_3: 21300186
+      emo_set_6_0: 21300188
+      emo_set_6_1: 21300190
+      emo_set_6_2: 21300192
+      emo_set_6_3: 21300194
+      emo_set_7_0: 21300196
+      emo_set_7_1: 21300198
+      emo_set_7_2: 21300200
+      emo_set_7_3: 21300202
+      emo_set_8_0: 21300204
+      emo_set_8_1: 21300206
+      emo_set_8_2: 21300208
+      emo_set_8_3: 21300210
+      emo_set_9_0: 21300212
+      emo_set_9_1: 21300214
+      emo_set_9_2: 21300216
+      emo_set_9_3: 21300218
+      icon_skill_0: 21300220
+      icon_skill_1: 21300222
+      icon_skill_2: 21300224
+      icon_skill_3: 21300226
+      icon_skill_4: 21300228
+      icon_skill_5: 21300230
+      icon_skill_6: 21300232
+      icon_skill_7: 21300234
+      icon_skill_8: 21300236
+      icon_skill_9: 21300238
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

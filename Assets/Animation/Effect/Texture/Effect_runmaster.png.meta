@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: 4380c7dafaea24747b5ab3ff7603b609
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bunnie_Head
+  - first:
+      213: 21300002
+    second: Effect_3_day2
+  - first:
+      213: 21300004
+    second: Effect_runmaster_2
+  - first:
+      213: 21300006
+    second: Effect_runmaster_3
+  - first:
+      213: 21300008
+    second: Bunnie_Wing_P
+  - first:
+      213: 21300010
+    second: Effect_runmaster_5
+  - first:
+      213: 21300012
+    second: Effect_3_day
+  - first:
+      213: 21300014
+    second: Croco_Light_d
+  - first:
+      213: 21300016
+    second: Bunnie_Wing_Trai
+  - first:
+      213: 21300018
+    second: Effect_3_2
+  - first:
+      213: 21300020
+    second: Bunnie_Bua
+  - first:
+      213: 21300022
+    second: Bunnie_Eye
+  - first:
+      213: 21300024
+    second: Effect_runmaster_12
+  - first:
+      213: 21300026
+    second: Effect_3_5
+  - first:
+      213: 21300028
+    second: Effect_runmaster_14
+  - first:
+      213: 21300030
+    second: Smush_Legg1
+  - first:
+      213: 21300032
+    second: Bunnie_Lip
+  - first:
+      213: 21300034
+    second: Smush_Leg2
+  - first:
+      213: 21300036
+    second: Effect_runmaster_18
+  - first:
+      213: 21300038
+    second: Effect_runmaster_19
+  - first:
+      213: 21300040
+    second: Effect_3_1
+  - first:
+      213: 21300042
+    second: Effect_runmaster_21
+  - first:
+      213: 21300044
+    second: Alpha - X_eye_2
+  - first:
+      213: 21300046
+    second: Effect_runmaster_23
+  - first:
+      213: 21300048
+    second: Effect_3_6
+  - first:
+      213: 21300050
+    second: Croco_Tren
+  - first:
+      213: 21300052
+    second: Smush_Body
+  - first:
+      213: 21300054
+    second: Effect_3_3
+  - first:
+      213: 21300056
+    second: Alpha - X_eye1
+  - first:
+      213: 21300058
+    second: Croco_Light_T
+  - first:
+      213: 21300060
+    second: Croco_Duoi
+  - first:
+      213: 21300062
+    second: Bunnie_Ear
+  - first:
+      213: 21300064
+    second: Effect_3_4
+  - first:
+      213: 21300066
+    second: Alpha - X_Hologram
+  - first:
+      213: 21300068
+    second: Effect_runmaster_34
+  - first:
+      213: 21300070
+    second: Effect_runmaster_35
+  - first:
+      213: 21300072
+    second: Effect_runmaster_36
+  - first:
+      213: 21300074
+    second: Bunnie_Vong
+  - first:
+      213: 21300076
+    second: Effect_runmaster_38
+  - first:
+      213: 21300078
+    second: Effect_runmaster_39
+  - first:
+      213: 21300080
+    second: Effect_runmaster_40
+  - first:
+      213: 21300082
+    second: Effect_runmaster_41
+  - first:
+      213: 21300084
+    second: Alpha - X_hand
+  - first:
+      213: 21300086
+    second: Effect_runmaster_43
+  - first:
+      213: 21300088
+    second: Effect_runmaster_44
+  - first:
+      213: 21300090
+    second: Effect_runmaster_45
+  - first:
+      213: 21300092
+    second: Smush_Head
+  - first:
+      213: 21300094
+    second: Alpha - X_Head
+  - first:
+      213: 21300096
+    second: Effect_runmaster_48
+  - first:
+      213: 21300098
+    second: Effect_runmaster_49
+  - first:
+      213: 21300100
+    second: Effect_runmaster_50
+  - first:
+      213: 21300102
+    second: Bunnie_Hand2
+  - first:
+      213: 21300104
+    second: Effect_runmaster_52
+  - first:
+      213: 21300106
+    second: Effect_runmaster_53
+  - first:
+      213: 21300108
+    second: Effect_runmaster_54
+  - first:
+      213: 21300110
+    second: Bunnie_ma
+  - first:
+      213: 21300112
+    second: Effect_runmaster_56
+  - first:
+      213: 21300114
+    second: Effect_runmaster_57
+  - first:
+      213: 21300116
+    second: Smush_Eye
+  - first:
+      213: 21300118
+    second: Effect_runmaster_59
+  - first:
+      213: 21300120
+    second: Effect_runmaster_60
+  - first:
+      213: 21300122
+    second: Bunnie_hand1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_3_day2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a7225086e75a40b0b78ae34a6b8c5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Wing_P
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 536
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b33c0c50fb79f4d89c097ae0dd0aec
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6078e37d740bfe488279777e80057ef
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_day
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 156
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2a91d82753564fab6ea63a60f047d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croco_Light_d
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 420
+        width: 117
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d322951126d01341aa902d09fc4352d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Wing_Trai
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 464
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b479517dc33043b9257294f336f29
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f66af00466d3954cbcc12f79e25d55b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Bua
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 368
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7d99b322ea704d8995e9a1232c486
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Eye
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 404
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887ed6b12c94ba408c51d21fb48dbab
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 320
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c23d62108bcee40a3e8b0b7244a3a5
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 417
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1350dae5d2b1e148a6333b31920f666
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smush_Legg1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 392
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b8713afa50f640bb3bf1b2c3f42d3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Lip
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 380
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e43fbd8f62d6419b1282500dec6d8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smush_Leg2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 369
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de9c6d936b6544ab9aef1e6ff2c734
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 116
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4dfccf27350184fabfc43d57eb4c46
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 320
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046996c1b8095464fa4f1973579d0623
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 309
+        width: 195
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9433b2d4b30f06d42831170018e009bf
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 323
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a93718dcd91f3468080ccd0ffc441d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha - X_eye_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 309
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759cf67f164f78d418bf9bdce1a6a19a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 273
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89568412d965618448528b5681bcfa75
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croco_Tren
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 232
+        width: 146
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17338a8df653a468639115887ec906
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smush_Body
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 212
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195482d9ce1fa0346b4b9958eb1eeb97
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce9ef1254480a144a5f15c5ecc0c1bd
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha - X_eye1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed8f410d569534c9655c41835e4cd0
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croco_Light_T
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 166
+        width: 141
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c5f33939598b4fb39e2d9bcccbb1e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croco_Duoi
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 154
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee82f7ec21ca446ba02fb0c86cb753
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Ear
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 156
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5496666, y: 0.074507475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86883860c29fd9419cfca92d755b3d3
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_3_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 176
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc882a474e32f41bd8131eb393578b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha - X_Hologram
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb80f7c21d77c41a06a8dbb45bb814
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 104
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77beff5c4b8b6a44ead3601e1dc0f2de
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Vong
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 91
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8604cae96b07af4baf5d9ae0dd3a458
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 108
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6729f3826c3d147935ae4a33eaa86d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha - X_hand
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 71
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dee691afa3108428074b409235a9be
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smush_Head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f2f348af1a444597ca3ad26c150ca
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpha - X_Head
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c25bfc6bedd00428677f09c3038656
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Hand2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 27
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8546a765ff971040a09a16dbfc35e15
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_ma
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 71
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086a0e175ca38b47a2aecbe498f068c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_57
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697946330eabcb442861ae3f39943bfd
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smush_Eye
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c03cf38ac29b4baa416dae849d2b5
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_runmaster_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a540d3eed5136c40b22839d61194591
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_hand1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 421
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081008c802d12c14abf432666defd168
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunnie_Head
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 13
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcde2b01dcdd504498246156dace541
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7d4b610527721845a90d77b9c6295d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alpha - X_Head: 21300094
+      Alpha - X_Hologram: 21300066
+      Alpha - X_eye1: 21300056
+      Alpha - X_eye_2: 21300044
+      Alpha - X_hand: 21300084
+      Bunnie_Bua: 21300020
+      Bunnie_Ear: 21300062
+      Bunnie_Eye: 21300022
+      Bunnie_Hand2: 21300102
+      Bunnie_Head: 21300000
+      Bunnie_Lip: 21300032
+      Bunnie_Vong: 21300074
+      Bunnie_Wing_P: 21300008
+      Bunnie_Wing_Trai: 21300016
+      Bunnie_hand1: 21300122
+      Bunnie_ma: 21300110
+      Croco_Duoi: 21300060
+      Croco_Light_T: 21300058
+      Croco_Light_d: 21300014
+      Croco_Tren: 21300050
+      Effect_3_1: 21300040
+      Effect_3_2: 21300018
+      Effect_3_3: 21300054
+      Effect_3_4: 21300064
+      Effect_3_5: 21300026
+      Effect_3_6: 21300048
+      Effect_3_day: 21300012
+      Effect_3_day2: 21300002
+      Effect_runmaster_12: 21300024
+      Effect_runmaster_18: 21300036
+      Effect_runmaster_19: 21300038
+      Effect_runmaster_21: 21300042
+      Effect_runmaster_35: 21300070
+      Effect_runmaster_38: 21300076
+      Effect_runmaster_5: 21300010
+      Effect_runmaster_57: 21300114
+      Effect_runmaster_60: 21300120
+      Smush_Body: 21300052
+      Smush_Eye: 21300116
+      Smush_Head: 21300092
+      Smush_Leg2: 21300034
+      Smush_Legg1: 21300030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

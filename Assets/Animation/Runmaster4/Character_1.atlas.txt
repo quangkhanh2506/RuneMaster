@@ -1,0 +1,237 @@
+
+Character_1.png
+size: 813,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1_Body
+  rotate: false
+  xy: 257, 24
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+Character1_Body2
+  rotate: true
+  xy: 668, 261
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+Character1_Eyes_1
+  rotate: false
+  xy: 438, 82
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Character1_Eyes_2
+  rotate: true
+  xy: 759, 714
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+Character1_Eyes_3
+  rotate: false
+  xy: 656, 163
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Character1_Eyes_4
+  rotate: false
+  xy: 536, 82
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Character1_Hand_1
+  rotate: false
+  xy: 571, 210
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: false
+  xy: 438, 5
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character1_Hat_1
+  rotate: false
+  xy: 507, 586
+  size: 250, 224
+  orig: 250, 224
+  offset: 0, 0
+  index: -1
+Character1_Hat_2
+  rotate: false
+  xy: 449, 302
+  size: 217, 109
+  orig: 217, 109
+  offset: 0, 0
+  index: -1
+Character1_Hat_3
+  rotate: false
+  xy: 754, 199
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Character1_Leg_1
+  rotate: false
+  xy: 288, 495
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character1_Leg_2
+  rotate: false
+  xy: 534, 41
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Emotion_Cry_3
+  rotate: true
+  xy: 785, 661
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+Emotion_Scare
+  rotate: false
+  xy: 759, 621
+  size: 24, 91
+  orig: 24, 91
+  offset: 0, 0
+  index: -1
+Emotion_lose
+  rotate: false
+  xy: 449, 180
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: true
+  xy: 634, 172
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Eye_10
+  rotate: false
+  xy: 577, 10
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 370, 495
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: true
+  xy: 449, 510
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Eye_4
+  rotate: false
+  xy: 411, 509
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Eye_5
+  rotate: false
+  xy: 571, 190
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Eye_6
+  rotate: false
+  xy: 754, 164
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Eye_7
+  rotate: false
+  xy: 257, 11
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_8
+  rotate: false
+  xy: 785, 594
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Eye_9
+  rotate: true
+  xy: 785, 623
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: true
+  xy: 534, 8
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV1
+  rotate: true
+  xy: 507, 413
+  size: 171, 254
+  orig: 171, 254
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV2
+  rotate: true
+  xy: 1, 7
+  size: 177, 254
+  orig: 177, 254
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV3
+  rotate: false
+  xy: 250, 212
+  size: 197, 263
+  orig: 197, 263
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV4
+  rotate: false
+  xy: 288, 536
+  size: 217, 274
+  orig: 217, 274
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV5
+  rotate: false
+  xy: 1, 186
+  size: 247, 289
+  orig: 247, 289
+  offset: 0, 0
+  index: -1
+Weapons_Character1_LV5Shadow
+  rotate: false
+  xy: 1, 477
+  size: 285, 333
+  orig: 285, 333
+  offset: 0, 0
+  index: -1

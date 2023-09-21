@@ -1,0 +1,286 @@
+
+Character_10.png
+size: 544,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character10_Body
+  rotate: false
+  xy: 1, 227
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+Character10_Body2
+  rotate: true
+  xy: 1, 45
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+Character10_Eyes_1
+  rotate: false
+  xy: 247, 80
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Character10_Hat
+  rotate: false
+  xy: 1, 415
+  size: 301, 128
+  orig: 301, 128
+  offset: 0, 0
+  index: -1
+Character10_Leg_1
+  rotate: true
+  xy: 327, 83
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character10_Leg_2
+  rotate: true
+  xy: 356, 1
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character10_Mouth
+  rotate: true
+  xy: 388, 250
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character10_Mouth2
+  rotate: true
+  xy: 473, 342
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character10_Mouth3
+  rotate: true
+  xy: 388, 145
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character10_Mouth4
+  rotate: true
+  xy: 459, 141
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character10_Mouth5
+  rotate: false
+  xy: 251, 9
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character10_Mouth6
+  rotate: false
+  xy: 304, 432
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+Character10_Mouth7
+  rotate: true
+  xy: 178, 83
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+Character10_Mouth_44
+  rotate: false
+  xy: 401, 70
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Character1_Eyes_2
+  rotate: true
+  xy: 486, 447
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+Character1_Eyes_3
+  rotate: false
+  xy: 388, 447
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Character1_Hand_1
+  rotate: false
+  xy: 388, 355
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: true
+  xy: 459, 246
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Emotion_drop
+  rotate: false
+  xy: 397, 5
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 506, 75
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Eye_10
+  rotate: false
+  xy: 473, 39
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 397, 29
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: false
+  xy: 506, 41
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Eye_4
+  rotate: true
+  xy: 207, 45
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Eye_5
+  rotate: false
+  xy: 438, 15
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Eye_6
+  rotate: false
+  xy: 438, 35
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Eye_7
+  rotate: true
+  xy: 532, 39
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_8
+  rotate: false
+  xy: 516, 10
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Eye_9
+  rotate: true
+  xy: 178, 45
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: false
+  xy: 368, 100
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV1
+  rotate: false
+  xy: 296, 165
+  size: 44, 248
+  orig: 44, 248
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV1B
+  rotate: false
+  xy: 506, 119
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV2
+  rotate: false
+  xy: 342, 182
+  size: 44, 248
+  orig: 44, 248
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV2B
+  rotate: false
+  xy: 506, 97
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV3
+  rotate: true
+  xy: 1, 4
+  size: 39, 248
+  orig: 39, 248
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV3B
+  rotate: true
+  xy: 368, 143
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV4
+  rotate: false
+  xy: 248, 160
+  size: 46, 253
+  orig: 46, 253
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV4B
+  rotate: true
+  xy: 495, 1
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV5
+  rotate: false
+  xy: 182, 161
+  size: 64, 252
+  orig: 64, 252
+  offset: 0, 0
+  index: -1
+Weapons_Character10_LV5B
+  rotate: true
+  xy: 473, 1
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1

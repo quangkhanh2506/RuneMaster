@@ -1,0 +1,45 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Icon/hero_avatars.tpsheet
+- Assets/Resources/Icon/icons.tpsheet
+- Assets/Sprite/hero_avatars.tpsheet
+- Assets/Sprite/icons.tpsheet
+- Assets/Sprite/items.tpsheet
+- Assets/Sprite/theme_0.tpsheet
+- Assets/Sprite/theme_1.tpsheet
+- Assets/Sprite/theme_2.tpsheet
+- Assets/Sprite/theme_3.tpsheet
+- Assets/Sprite/theme_4.tpsheet
+- Assets/Sprite/theme_5.tpsheet
+- Assets/Sprite/ui.tpsheet
+- Assets/Sprite/unlock.tpsheet
+textureFileNames:
+- Assets/Resources/Icon/hero_avatars.png
+- Assets/Resources/Icon/icons.png
+- Assets/Sprite/hero_avatars.png
+- Assets/Sprite/icons.png
+- Assets/Sprite/items.png
+- Assets/Sprite/theme_0.png
+- Assets/Sprite/theme_1.png
+- Assets/Sprite/theme_2.png
+- Assets/Sprite/theme_3.png
+- Assets/Sprite/theme_4.png
+- Assets/Sprite/theme_5.png
+- Assets/Sprite/ui.png
+- Assets/Sprite/unlock.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

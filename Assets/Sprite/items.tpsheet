@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:85561795dced924bf2ee8a5e4d7e0ba6:c66cfdf9279cf5955469f3e96e91031b:ec0def09dbcfabb39f68e87e5944715d$
+#
+:format=40300
+:texture=items.png
+:size=236x128
+:pivotpoints=enabled
+:borders=disabled
+
+icon_coin_pack_0;176;51;57;39; 0.5;0.5; 0;0;0;0; 5;57;0;5;0;0;5;0;39;57;39; 3;1;3;4;1;2;3;0;1;4
+icon_coin_pack_1;1;1;61;55; 0.5;0.5; 0;0;0;0; 4;61;0;0;0;0;55;61;55; 2;1;2;3;0;1;3
+icon_coin_pack_2;87;59;87;68; 0.5;0.5; 0;0;0;0; 6;87;24;87;0;0;0;0;45;31;68;65;68; 4;2;0;1;3;0;2;3;4;0;0;4;5
+icon_gem_pack_0;176;92;58;35; 0.5;0.5; 0;0;0;0; 5;58;20;58;0;0;0;0;35;19;35; 3;2;3;4;1;2;4;0;1;4
+icon_gem_pack_1;64;2;78;54; 0.5;0.5; 0;0;0;0; 5;78;0;0;0;0;30;37;54;78;54; 3;0;3;4;1;2;3;0;1;3
+icon_gem_pack_2;1;58;84;69; 0.5;0.5; 0;0;0;0; 7;64;67;84;26;84;0;0;0;0;43;26;69;62;69; 5;0;1;5;3;1;2;3;4;1;1;4;5;0;5;6

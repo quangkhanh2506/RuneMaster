@@ -1,0 +1,531 @@
+
+Character_3.png
+size: 1351,1350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow_0000_Bow-(14)
+  rotate: false
+  xy: 166, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0001_Bow-(20)
+  rotate: false
+  xy: 350, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0002_Bow-(19)
+  rotate: false
+  xy: 534, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0003_Bow-(18)
+  rotate: false
+  xy: 718, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0004_Bow-(17)
+  rotate: false
+  xy: 902, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0005_Bow-(16)
+  rotate: false
+  xy: 1086, 1087
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Bow_0006_Bow-(15)
+  rotate: false
+  xy: 1, 753
+  size: 182, 262
+  orig: 182, 262
+  offset: 0, 0
+  index: -1
+Character1_Hand_1
+  rotate: false
+  xy: 1256, 110
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: false
+  xy: 1256, 202
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character3_Body
+  rotate: false
+  xy: 299, 43
+  size: 179, 186
+  orig: 179, 186
+  offset: 0, 0
+  index: -1
+Character3_Body1
+  rotate: false
+  xy: 1195, 756
+  size: 150, 113
+  orig: 150, 113
+  offset: 0, 0
+  index: -1
+Character3_Eyes
+  rotate: false
+  xy: 1054, 159
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+Character3_Eyes_1
+  rotate: false
+  xy: 1054, 90
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+Character3_Leg_1
+  rotate: false
+  xy: 1256, 69
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character3_Leg_2
+  rotate: false
+  xy: 299, 2
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character3_Mouth_1
+  rotate: false
+  xy: 1144, 187
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+Character3_Mouth_11
+  rotate: false
+  xy: 1144, 95
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+Character3_Mouth_2
+  rotate: false
+  xy: 480, 7
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+Character3_Mouth_22
+  rotate: false
+  xy: 584, 7
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+Character3_Tail_1
+  rotate: true
+  xy: 1195, 871
+  size: 75, 155
+  orig: 75, 155
+  offset: 0, 0
+  index: -1
+Emotion_tongue
+  rotate: false
+  xy: 111, 683
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00000
+  rotate: false
+  xy: 185, 885
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00001
+  rotate: false
+  xy: 387, 885
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00002
+  rotate: false
+  xy: 589, 885
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00003
+  rotate: false
+  xy: 791, 885
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00004
+  rotate: false
+  xy: 993, 885
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00005
+  rotate: false
+  xy: 185, 683
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00006
+  rotate: false
+  xy: 387, 683
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00007
+  rotate: false
+  xy: 589, 683
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00008
+  rotate: false
+  xy: 791, 683
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00009
+  rotate: false
+  xy: 993, 683
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00010
+  rotate: false
+  xy: 111, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00011
+  rotate: false
+  xy: 313, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00012
+  rotate: false
+  xy: 515, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00013
+  rotate: false
+  xy: 717, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Energy 086 Charge Explosion Radial MIX_00014
+  rotate: false
+  xy: 919, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Eye_4
+  rotate: false
+  xy: 637, 454
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: true
+  xy: 1195, 683
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00001
+  rotate: false
+  xy: 97, 233
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00003
+  rotate: false
+  xy: 299, 231
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00005
+  rotate: false
+  xy: 501, 231
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00008
+  rotate: false
+  xy: 703, 279
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00010
+  rotate: false
+  xy: 905, 279
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00012
+  rotate: false
+  xy: 1121, 481
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00015
+  rotate: false
+  xy: 1107, 279
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Flash 012 Impact Explosion Radial_00017
+  rotate: false
+  xy: 97, 31
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV1
+  rotate: true
+  xy: 1270, 1095
+  size: 254, 46
+  orig: 254, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV1_1
+  rotate: false
+  xy: 381, 6
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV1_2
+  rotate: true
+  xy: 831, 36
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2
+  rotate: false
+  xy: 381, 433
+  size: 254, 46
+  orig: 254, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2_1
+  rotate: false
+  xy: 688, 1
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV2_2
+  rotate: false
+  xy: 1053, 18
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3
+  rotate: false
+  xy: 111, 435
+  size: 268, 44
+  orig: 268, 44
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3_1
+  rotate: true
+  xy: 868, 36
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV3_2
+  rotate: false
+  xy: 905, 77
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4
+  rotate: true
+  xy: 49, 179
+  size: 270, 46
+  orig: 270, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4_1
+  rotate: false
+  xy: 979, 77
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV4_2
+  rotate: false
+  xy: 905, 40
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5
+  rotate: true
+  xy: 1, 177
+  size: 272, 46
+  orig: 272, 46
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5_1
+  rotate: false
+  xy: 979, 40
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5_2
+  rotate: false
+  xy: 1053, 53
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Weapons_Character3_Arrow_LV5shadow
+  rotate: true
+  xy: 1, 451
+  size: 300, 108
+  orig: 300, 108
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV1
+  rotate: false
+  xy: 1, 1017
+  size: 163, 332
+  orig: 163, 332
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV2
+  rotate: false
+  xy: 1309, 383
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV2_2
+  rotate: false
+  xy: 1195, 948
+  size: 155, 137
+  orig: 155, 137
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV3
+  rotate: false
+  xy: 1309, 285
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV3_2
+  rotate: false
+  xy: 888, 114
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV4
+  rotate: false
+  xy: 1, 49
+  size: 37, 126
+  orig: 37, 126
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV4_2
+  rotate: true
+  xy: 703, 110
+  size: 167, 183
+  orig: 167, 183
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5
+  rotate: true
+  xy: 1195, 716
+  size: 38, 126
+  orig: 38, 126
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5_1
+  rotate: false
+  xy: 1318, 1205
+  size: 19, 144
+  orig: 19, 144
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5_2
+  rotate: true
+  xy: 480, 63
+  size: 166, 190
+  orig: 166, 190
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5_33
+  rotate: false
+  xy: 769, 38
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5_4
+  rotate: false
+  xy: 688, 36
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+Weapons_Character3_LV5_5
+  rotate: false
+  xy: 455, 18
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

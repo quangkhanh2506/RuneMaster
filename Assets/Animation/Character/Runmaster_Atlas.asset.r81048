@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Runmaster_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 386c6ca01dfd7914ebcbd42c86061911, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 7497640040e606a419723a39ed65b9d8, type: 2}
+  - {fileID: 2100000, guid: 3a6be706546d1794bb90ff96af74d5ca, type: 2}
+  - {fileID: 2100000, guid: 1167888f0fee26f4695f9154dcbd2a6f, type: 2}

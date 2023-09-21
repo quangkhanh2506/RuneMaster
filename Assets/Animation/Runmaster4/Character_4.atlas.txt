@@ -1,0 +1,419 @@
+
+Character_4.png
+size: 1193,1193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1_Hand_1
+  rotate: false
+  xy: 1067, 308
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: false
+  xy: 1, 3
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character4_Body
+  rotate: false
+  xy: 537, 100
+  size: 179, 184
+  orig: 179, 184
+  offset: 0, 0
+  index: -1
+Character4_Body_1
+  rotate: true
+  xy: 718, 124
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+Character4_Ear
+  rotate: true
+  xy: 385, 596
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Character4_Eyes
+  rotate: true
+  xy: 879, 92
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+Character4_Eyes_1
+  rotate: true
+  xy: 1110, 431
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+Character4_Eyes_2
+  rotate: true
+  xy: 651, 1
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+Character4_Eyes_3
+  rotate: true
+  xy: 739, 1
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+Character4_Fang
+  rotate: false
+  xy: 309, 857
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Character4_Fang2
+  rotate: false
+  xy: 787, 334
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Character4_Hair
+  rotate: false
+  xy: 879, 182
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+Character4_Leg_1
+  rotate: true
+  xy: 1150, 1112
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character4_Leg_2
+  rotate: false
+  xy: 440, 351
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character4_Nose
+  rotate: false
+  xy: 1010, 174
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1
+Character4_Nose3
+  rotate: true
+  xy: 999, 85
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1
+Emotion_cry2
+  rotate: false
+  xy: 1110, 521
+  size: 73, 145
+  orig: 73, 145
+  offset: 0, 0
+  index: -1
+Emotion_cry3
+  rotate: false
+  xy: 135, 317
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 440, 329
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Eye_10
+  rotate: false
+  xy: 1110, 400
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 1150, 1071
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Eye_3
+  rotate: false
+  xy: 359, 884
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Eye_4
+  rotate: false
+  xy: 1143, 404
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Eye_5
+  rotate: false
+  xy: 1067, 288
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Eye_6
+  rotate: false
+  xy: 787, 299
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Eye_7
+  rotate: false
+  xy: 787, 286
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Eye_8
+  rotate: false
+  xy: 97, 22
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Eye_9
+  rotate: false
+  xy: 97, 51
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Eye_Full
+  rotate: true
+  xy: 522, 359
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00000
+  rotate: false
+  xy: 490, 1060
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00001
+  rotate: true
+  xy: 1, 80
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00002
+  rotate: false
+  xy: 490, 926
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00003
+  rotate: false
+  xy: 753, 1060
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00004
+  rotate: false
+  xy: 753, 926
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00005
+  rotate: true
+  xy: 1016, 931
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00006
+  rotate: true
+  xy: 251, 592
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00007
+  rotate: true
+  xy: 172, 317
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00008
+  rotate: true
+  xy: 135, 54
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00009
+  rotate: true
+  xy: 306, 329
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00010
+  rotate: true
+  xy: 385, 655
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00011
+  rotate: false
+  xy: 519, 792
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00012
+  rotate: false
+  xy: 519, 658
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00013
+  rotate: true
+  xy: 782, 663
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00014
+  rotate: true
+  xy: 916, 663
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00015
+  rotate: true
+  xy: 1050, 668
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00016
+  rotate: true
+  xy: 269, 54
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00017
+  rotate: true
+  xy: 403, 66
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00018
+  rotate: true
+  xy: 440, 392
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00019
+  rotate: true
+  xy: 574, 395
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00020
+  rotate: true
+  xy: 708, 395
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00021
+  rotate: true
+  xy: 842, 400
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Fire 053 Fireball Torch Right Loop_00022
+  rotate: true
+  xy: 976, 400
+  size: 261, 132
+  orig: 261, 132
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: true
+  xy: 537, 8
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV1
+  rotate: true
+  xy: 574, 286
+  size: 107, 211
+  orig: 107, 211
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV2
+  rotate: true
+  xy: 842, 288
+  size: 110, 223
+  orig: 110, 223
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV3
+  rotate: false
+  xy: 1, 343
+  size: 169, 235
+  orig: 169, 235
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV4
+  rotate: false
+  xy: 309, 918
+  size: 179, 274
+  orig: 179, 274
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV5
+  rotate: false
+  xy: 1, 580
+  size: 248, 273
+  orig: 248, 273
+  offset: 0, 0
+  index: -1
+Weapons_Character4_LV5Shadow
+  rotate: false
+  xy: 1, 855
+  size: 306, 337
+  orig: 306, 337
+  offset: 0, 0
+  index: -1

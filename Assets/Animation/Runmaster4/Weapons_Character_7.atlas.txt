@@ -1,0 +1,90 @@
+
+Weapons_Character_7.png
+size: 423,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapons_Character7_Full_1
+  rotate: true
+  xy: 264, 55
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+Weapons_Character7_Full_2
+  rotate: true
+  xy: 174, 75
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV1
+  rotate: false
+  xy: 379, 112
+  size: 29, 161
+  orig: 29, 161
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV1_2
+  rotate: false
+  xy: 273, 275
+  size: 134, 147
+  orig: 134, 147
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV2
+  rotate: true
+  xy: 174, 13
+  size: 40, 161
+  orig: 40, 161
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV2_2
+  rotate: false
+  xy: 137, 274
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV3
+  rotate: true
+  xy: 1, 1
+  size: 45, 161
+  orig: 45, 161
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV3_2
+  rotate: false
+  xy: 1, 268
+  size: 134, 154
+  orig: 134, 154
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV4
+  rotate: true
+  xy: 1, 48
+  size: 67, 171
+  orig: 67, 171
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV4_2
+  rotate: false
+  xy: 137, 124
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV5
+  rotate: false
+  xy: 273, 105
+  size: 104, 168
+  orig: 104, 168
+  offset: 0, 0
+  index: -1
+Weapons_Character7_LV5_2
+  rotate: false
+  xy: 1, 117
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1

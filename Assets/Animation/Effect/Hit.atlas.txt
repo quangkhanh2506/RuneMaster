@@ -1,0 +1,20 @@
+
+Hit.png
+size: 108,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_hp_0
+  rotate: false
+  xy: 1, 55
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+icon_hp_1
+  rotate: false
+  xy: 1, 1
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

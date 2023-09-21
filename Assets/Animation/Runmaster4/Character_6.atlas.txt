@@ -1,0 +1,251 @@
+
+Character_6.png
+size: 712,711
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character1_Hand_1
+  rotate: false
+  xy: 600, 73
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Character1_Hand_2
+  rotate: true
+  xy: 568, 165
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+Character6_Body
+  rotate: false
+  xy: 1, 318
+  size: 197, 247
+  orig: 197, 247
+  offset: 0, 0
+  index: -1
+Character6_Body1_1
+  rotate: false
+  xy: 513, 402
+  size: 139, 164
+  orig: 139, 164
+  offset: 0, 0
+  index: -1
+Character6_Body1_2
+  rotate: false
+  xy: 654, 484
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+Character6_Body1_23
+  rotate: true
+  xy: 151, 18
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+Character6_Body1_4
+  rotate: true
+  xy: 341, 248
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+Character6_Body2
+  rotate: false
+  xy: 341, 394
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1
+Character6_Eyes_2
+  rotate: true
+  xy: 353, 3
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Character6_Eyes_3
+  rotate: true
+  xy: 417, 3
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Character6_Eyes_4
+  rotate: false
+  xy: 654, 537
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Character6_Eyes_5
+  rotate: true
+  xy: 112, 12
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Character6_Eyes_6
+  rotate: true
+  xy: 584, 261
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Character6_Eyes_7
+  rotate: true
+  xy: 654, 437
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Character6_Leg_1
+  rotate: false
+  xy: 600, 32
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Character6_Leg_2
+  rotate: false
+  xy: 271, 7
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Cry_Char6_0000_Layer-2
+  rotate: false
+  xy: 292, 140
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0001_Layer-3
+  rotate: false
+  xy: 384, 140
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0002_Layer-4
+  rotate: false
+  xy: 476, 140
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0003_Layer-5
+  rotate: true
+  xy: 292, 48
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0004_Layer-6
+  rotate: true
+  xy: 400, 48
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0005_Layer-7
+  rotate: false
+  xy: 508, 32
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0006_Layer-8
+  rotate: true
+  xy: 513, 310
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Cry_Char6_0007_Layer-9
+  rotate: false
+  xy: 621, 294
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+Emotion_Scare
+  rotate: true
+  xy: 200, 318
+  size: 24, 91
+  orig: 24, 91
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV1
+  rotate: true
+  xy: 151, 119
+  size: 197, 139
+  orig: 197, 139
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV2
+  rotate: true
+  xy: 200, 344
+  size: 221, 139
+  orig: 221, 139
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV3
+  rotate: true
+  xy: 1, 54
+  size: 262, 148
+  orig: 262, 148
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV3_1
+  rotate: true
+  xy: 645, 167
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV4
+  rotate: false
+  xy: 379, 568
+  size: 265, 142
+  orig: 265, 142
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV4_1
+  rotate: true
+  xy: 646, 601
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV4_2
+  rotate: true
+  xy: 507, 261
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV5
+  rotate: false
+  xy: 1, 567
+  size: 376, 143
+  orig: 376, 143
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV5_1
+  rotate: false
+  xy: 645, 217
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Weapons_Character6_LV5_2
+  rotate: false
+  xy: 1, 1
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+id,name,milestone,prefabName,reward,idItem
+1,Single Match,0,,0,1
+2,Rank Match,10,,0,1
+3,Boss Fighting,3,,0,1
+4,Tournament,15,,0,1
+5,Easy Tournament,0,icon_tournament_0,1,6
+6,Normal Tournament,0,icon_tournament_1,1,7
+7,Hard Tournament,0,icon_tournament_2,1,8
