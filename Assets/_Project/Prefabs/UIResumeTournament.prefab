@@ -201,7 +201,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8989733775016960359}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1405563209143939496}
+        m_TargetAssemblyTypeName: UIResumeTournament, Assembly-CSharp
+        m_MethodName: OnResume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &534075793835977175
 GameObject:
   m_ObjectHideFlags: 0
@@ -970,6 +982,7 @@ GameObject:
   - component: {fileID: 1060681767728962268}
   - component: {fileID: 220062139872185437}
   - component: {fileID: 7462216644432087447}
+  - component: {fileID: 1405563209143939496}
   m_Layer: 5
   m_Name: UIResumeTournament
   m_TagString: Untagged
@@ -1036,6 +1049,32 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1405563209143939496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4296756435065882757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2cbd28fbfc1641218aa352dd36cb280, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiIndex: 0
+  lsSpritesCharacter:
+  - {fileID: 21300020, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300022, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300024, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300026, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300028, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300030, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300032, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300034, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300036, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300038, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  txtMatch: {fileID: 7051397352688913915}
+  imgCharacter: {fileID: 5986663356048182017}
 --- !u!1 &4434866546109966882
 GameObject:
   m_ObjectHideFlags: 0
@@ -1233,7 +1272,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6941893810621966476}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1405563209143939496}
+        m_TargetAssemblyTypeName: UIResumeTournament, Assembly-CSharp
+        m_MethodName: OnNew
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &8071005390633014629
 GameObject:
   m_ObjectHideFlags: 0

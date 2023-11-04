@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1313475892630604648}
   - component: {fileID: 4555302602747759886}
   m_Layer: 5
-  m_Name: txtTittle
+  m_Name: txtName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -146,6 +146,7 @@ GameObject:
   - component: {fileID: 2118090381143914991}
   - component: {fileID: 8931734484745607402}
   - component: {fileID: 4150820886806212983}
+  - component: {fileID: 4534199758685320389}
   m_Layer: 5
   m_Name: UIUnlockCharacter
   m_TagString: Untagged
@@ -192,7 +193,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2869742077431317840}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -215,6 +216,32 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4534199758685320389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2869742077431317840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d05eea983abab4178bcdba764093b7af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiIndex: 0
+  lsSpriteCharacters:
+  - {fileID: 21300020, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300022, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300024, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300026, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300028, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300030, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300032, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300034, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300036, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - {fileID: 21300038, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  imgCharacter: {fileID: 4087843815124273786}
+  Name: {fileID: 4555302602747759886}
 --- !u!1 &4815733423038402474
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,7 +578,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 614385675720889386}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4534199758685320389}
+        m_TargetAssemblyTypeName: UIUnlockCharacter, Assembly-CSharp
+        m_MethodName: OnCloseClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7285476466202014979
 GameObject:
   m_ObjectHideFlags: 0

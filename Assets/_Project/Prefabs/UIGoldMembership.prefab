@@ -50,7 +50,7 @@ GameObject:
   - component: {fileID: 2847286187825317797}
   - component: {fileID: 2039746584601348331}
   m_Layer: 5
-  m_Name: txtReward
+  m_Name: txtCoin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -24.2, y: 61.7}
+  m_AnchoredPosition: {x: -24.2, y: 61.699997}
   m_SizeDelta: {x: 110.62, y: 15.77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2847286187825317797
@@ -363,7 +363,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 23, y: -0.4}
+  m_AnchoredPosition: {x: 22.999996, y: -0.4}
   m_SizeDelta: {x: 40, y: 39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &798766665695063907
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 7474444855176431089}
   - component: {fileID: 2723216028380177016}
   m_Layer: 5
-  m_Name: txtReward
+  m_Name: txtGem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -823,7 +823,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -55, y: 57.5}
+  m_AnchoredPosition: {x: -35, y: 57.5}
   m_SizeDelta: {x: 110.62, y: 15.77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7474444855176431089
@@ -881,8 +881,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1110,7 +1110,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 30.4, y: -0.4}
+  m_AnchoredPosition: {x: 30.399998, y: -0.4}
   m_SizeDelta: {x: 51, y: 44}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6357031008113292297
@@ -1239,7 +1239,7 @@ GameObject:
   - component: {fileID: 1984651067283001476}
   - component: {fileID: 497780818222264259}
   m_Layer: 5
-  m_Name: txtReward
+  m_Name: txtNumberChest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1262,7 +1262,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -48.6, y: 57.5}
+  m_AnchoredPosition: {x: -42, y: 45}
   m_SizeDelta: {x: 110.62, y: 15.77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1984651067283001476
@@ -1606,13 +1606,14 @@ GameObject:
   - component: {fileID: 7706161616521915331}
   - component: {fileID: 7706161616521915333}
   - component: {fileID: 7706161616521915332}
+  - component: {fileID: 4494636607476438196}
   m_Layer: 5
   m_Name: UIGoldMembership
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &7706161616521915331
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1672,6 +1673,28 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4494636607476438196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7706161616521915330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da7df30c66cf42b5ac25a91fbb1aeb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiIndex: 0
+  txtGold: {fileID: 2039746584601348331}
+  txtGem: {fileID: 2723216028380177016}
+  txtNumberchest: {fileID: 497780818222264259}
+  lsSpriteChests:
+  - {fileID: 21300126, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300128, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300130, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300132, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  imgChest: {fileID: 8880672408986705181}
 --- !u!1 &7706161616597163153
 GameObject:
   m_ObjectHideFlags: 0
@@ -1870,7 +1893,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7706161616727163473}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4494636607476438196}
+        m_TargetAssemblyTypeName: UIGoldMemberShipReward, Assembly-CSharp
+        m_MethodName: OnCloseClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &7706161617083070319
 GameObject:
   m_ObjectHideFlags: 0
