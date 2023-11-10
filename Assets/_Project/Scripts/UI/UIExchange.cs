@@ -28,6 +28,7 @@ public class UIExchange : BaseUI
     private void OnEnable()
     {
         OnSetUp(new ExchangeParam { multiplierCoin = 50, multiplierGem = 1 });
+        
     }
 
     public override void OnSetUp(UIParam param = null)
