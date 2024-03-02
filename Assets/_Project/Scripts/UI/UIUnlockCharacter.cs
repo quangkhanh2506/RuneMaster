@@ -32,6 +32,7 @@ public class UIUnlockCharacter : BaseUI
         txtName.text = unlockCharacterParam.HeroIndex.ToString();
 
         //Save ID character
+
     }
 
     public override void OnCloseClick()

@@ -4,6 +4,7 @@ using UnityEngine;
 using System.IO;
 using Newtonsoft.Json;
 using System;
+using Core;
 
 public class SaveManager : SingletonMono<SaveManager>
 {
@@ -14,7 +15,18 @@ public class SaveManager : SingletonMono<SaveManager>
     private void Awake()
     {
         DontDestroyOnLoad(this);
+        Debug.Log(SaveGame == null ? "Null" : "Not null");
         LoadGame();
+        StartCoroutine(ShowUI());
+    }
+
+    IEnumerator ShowUI()
+    {
+        yield return new WaitForSeconds(3f);
+        UIManager.Instance.Init(() =>
+        {
+            UIManager.Instance.ShowUI(UIIndex.UIChest);
+        });
     }
 
     public SaveGame Init()
@@ -22,12 +34,13 @@ public class SaveManager : SingletonMono<SaveManager>
         Debug.Log("Init Save Manager");
         try
         {
-            if (SaveGame == null)
+            //if (SaveGame == null)
             {
                 string gameSavePath = GetGameSavePath();
                 if (File.Exists(gameSavePath))
                 {
                     var s = FileHelper.LoadFileWithPassword(gameSavePath, "", true);
+                    Debug.Log("init save manager " + s);
                     try
                     {
                         SaveGame = JsonConvert.DeserializeObject<SaveGame>(s);
@@ -37,12 +50,18 @@ public class SaveManager : SingletonMono<SaveManager>
                         Debug.LogError("Parse Game Save Error: " + e.Message);
                     }
                 }
+                else
+                {
+                    Debug.Log("Game save not found, starting a new game");
+                    SaveGame = new SaveGame();
+                }
             }
         }
         catch(Exception e)
         {
             Debug.LogError("Failed to Load saved game due to: " + e.Message);
         }
+        StartCoroutine(WaitforSave(10f));
         return SaveGame;
     }
 
@@ -53,18 +72,19 @@ public class SaveManager : SingletonMono<SaveManager>
 
     public SaveGame LoadGame()
     {
-        if (SaveGame == null)
+        //if (SaveGame == null)
         {
             Init();
         }
-        SaveGame.Init(Application.version);
-        StartCoroutine(WaitforSave(5f));
 
+        SaveGame.Init(Application.version);
+        
         return SaveGame;
     }
 
     public void Save()
     {
+        
         string gameSavePath = GetGameSavePath();
         string content = JsonConvert.SerializeObject(SaveGame, Formatting.Indented);
         File.WriteAllText(gameSavePath, content);
@@ -72,7 +92,6 @@ public class SaveManager : SingletonMono<SaveManager>
 
     private void OnApplicationQuit()
     {
-        SaveGame.isFirstOpen = true;
         Save();
     }
 

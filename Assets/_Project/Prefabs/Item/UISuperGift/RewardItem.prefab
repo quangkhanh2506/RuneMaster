@@ -538,7 +538,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.7, y: 32.1}
+  m_AnchoredPosition: {x: 0, y: 32.1}
   m_SizeDelta: {x: 87, y: 68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8532201319734589088
@@ -673,7 +673,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &5757558613803809117
 RectTransform:
   m_ObjectHideFlags: 0
@@ -809,7 +809,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4337445602240542570
 RectTransform:
   m_ObjectHideFlags: 0
@@ -922,6 +922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3809162120791264172}
+  - component: {fileID: 8873760600137635153}
   m_Layer: 5
   m_Name: RewardItem
   m_TagString: Untagged
@@ -936,7 +937,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8800041562445375916}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -951,3 +952,25 @@ RectTransform:
   m_AnchoredPosition: {x: -17.37, y: -31}
   m_SizeDelta: {x: 256.56, y: 338.2}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &8873760600137635153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8800041562445375916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34102ab1e83fd4e62a720da054a3985d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imgCircleBG: {fileID: 3720955205706402772}
+  imgReward: {fileID: 2146205214961486414}
+  txtReward: {fileID: 4057176309787650043}
+  imgIcon: {fileID: 1427531270291970798}
+  txtReceive: {fileID: 8263636590319637611}
+  btnClaim: {fileID: 8277405145184231978}
+  lsSpritesCircleBG:
+  - {fileID: 21300174, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300178, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300180, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}

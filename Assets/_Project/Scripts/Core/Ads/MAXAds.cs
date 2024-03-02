@@ -62,7 +62,7 @@ public class MAXAds : IGameAds
         MaxSdkCallbacks.OnSdkInitializedEvent += configuration =>
         {
             //Init banner
-            InitBanner();
+            //InitBanner();
             //Init inter
             InitInterstitial();
             //Init Reward

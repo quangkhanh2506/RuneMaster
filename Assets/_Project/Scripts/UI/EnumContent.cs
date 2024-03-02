@@ -43,3 +43,11 @@ public enum TournamentMatchIndex
     Final,
     COUNT
 }
+
+public enum IconTournamentIndex
+{
+    Bronze,
+    Silver,
+    Gold,
+    COUNT
+}

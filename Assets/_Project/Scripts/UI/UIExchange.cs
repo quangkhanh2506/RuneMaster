@@ -20,6 +20,7 @@ public class UIExchange : BaseUI
     [SerializeField] private TMP_InputField txtInputPrice;
     [SerializeField] private TextMeshProUGUI txtPrice;
     [SerializeField] private Button btnMinus;
+    [SerializeField] private Button btnExchange;
 
 
     private int value;
@@ -38,6 +39,7 @@ public class UIExchange : BaseUI
         exchangeParam = (ExchangeParam)param;
         ChangeValue();
         CheckbtnMinus();
+        CheckbtnExchange();
     }
 
     private void CheckbtnMinus()
@@ -52,6 +54,18 @@ public class UIExchange : BaseUI
         }
     }
 
+    private void CheckbtnExchange()
+    {
+        if(value * exchangeParam.multiplierGem > SaveManager.Instance.SaveGame.gem)
+        {
+            btnExchange.interactable = false;
+        }
+        else
+        {
+            btnExchange.interactable = true;
+        }
+    }
+
     public void OnInputValue()
     {
         
@@ -63,6 +77,7 @@ public class UIExchange : BaseUI
         }
         CheckbtnMinus();
         ChangeValue();
+        CheckbtnExchange();
     }
 
     private void ChangeValue()
@@ -78,6 +93,7 @@ public class UIExchange : BaseUI
         value++;
         ChangeValue();
         btnMinus.interactable = true;
+        CheckbtnExchange();
     }
 
     public void OnClickMinus()
@@ -94,7 +110,9 @@ public class UIExchange : BaseUI
     public void OnClickExchange()
     {
         //save coin and gem
-
+        SaveManager.Instance.SaveGame.gem -= value * exchangeParam.multiplierGem;
+        SaveManager.Instance.SaveGame.coin += value * exchangeParam.multiplierCoin;
+        SaveManager.Instance.Save();
         UIManager.Instance.HideUI(this);
     }
 

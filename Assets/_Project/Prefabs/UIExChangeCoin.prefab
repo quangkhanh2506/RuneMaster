@@ -337,14 +337,14 @@ MonoBehaviour:
   m_VerticalScrollbarEventHandler: {fileID: 0}
   m_LayoutGroup: {fileID: 0}
   m_ScrollSensitivity: 1
-  m_ContentType: 0
+  m_ContentType: 2
   m_InputType: 0
   m_AsteriskChar: 42
-  m_KeyboardType: 0
+  m_KeyboardType: 4
   m_LineType: 0
   m_HideMobileInput: 0
   m_HideSoftKeyboard: 0
-  m_CharacterValidation: 0
+  m_CharacterValidation: 2
   m_RegexValue: 
   m_GlobalPointSize: 14
   m_CharacterLimit: 0
@@ -2250,7 +2250,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7553423092050661318
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2322,12 +2322,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6589c30773044e93ac9d4a59f37e797, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 0
+  uiIndex: 25
   txtGemChange: {fileID: 7726123292963459679}
   txtCoinChange: {fileID: 7762740974304398390}
   txtInputPrice: {fileID: 2524685889797707445}
   txtPrice: {fileID: 3568607008423830832}
   btnMinus: {fileID: 8244555149218133567}
+  btnExchange: {fileID: 7553423092247537237}
 --- !u!1 &7553423092247537243
 GameObject:
   m_ObjectHideFlags: 0

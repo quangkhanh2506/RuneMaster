@@ -220,6 +220,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8024409935398444230}
+  - component: {fileID: 802370255894613461}
+  - component: {fileID: 624401639401027108}
   m_Layer: 5
   m_Name: ItemDay
   m_TagString: Untagged
@@ -249,6 +251,88 @@ RectTransform:
   m_AnchoredPosition: {x: -10.04, y: 180.58}
   m_SizeDelta: {x: 245.29, y: 330.84}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &802370255894613461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782320997732858018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 0}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &624401639401027108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 782320997732858018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4237fcf3d5ad044dc89611271986d02f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imgBgCircle: {fileID: 7430853748607240590}
+  lsSpritesBG:
+  - {fileID: 21300174, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300178, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300180, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  txtDailyGiftContent: {fileID: 449257490590181496}
+  imgReward: {fileID: 1005873622908487099}
+  lsSpritesCoin:
+  - {fileID: 21300038, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300134, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300136, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300138, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  lsSpritesGem:
+  - {fileID: 21300042, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300140, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300142, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300144, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  lsSpritesChest:
+  - {fileID: 21300126, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300128, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300130, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - {fileID: 21300132, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  txtCoin: {fileID: 1800348545025454789}
+  txtGem: {fileID: 4061779375848891053}
+  txtChest: {fileID: 684541371024918077}
+  isClaim: 0
 --- !u!1 &1800348545025454789
 GameObject:
   m_ObjectHideFlags: 0

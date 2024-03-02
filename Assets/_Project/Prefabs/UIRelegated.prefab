@@ -644,13 +644,14 @@ GameObject:
   - component: {fileID: 4601845127897811399}
   - component: {fileID: 2614802598819771840}
   - component: {fileID: 5035936643945129717}
+  - component: {fileID: 8123088161015706019}
   m_Layer: 5
   m_Name: UIRelegated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7897866543733458635
 RectTransform:
   m_ObjectHideFlags: 0
@@ -725,7 +726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34a55b227e26f4785b4b0e83d01a67ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 0
+  uiIndex: 20
   lsSpriteRanks:
   - {fileID: 21300064, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   - {fileID: 21300066, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
@@ -734,6 +735,27 @@ MonoBehaviour:
   - {fileID: 21300072, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   currentImgRank: {fileID: 5754438475551194993}
   UpdateImgRank: {fileID: 5337133283229895367}
+--- !u!95 &8123088161015706019
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5040808473150805171}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4187a84d6a0964b549d2bd9b5a12a83e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5417606735940084748
 GameObject:
   m_ObjectHideFlags: 0

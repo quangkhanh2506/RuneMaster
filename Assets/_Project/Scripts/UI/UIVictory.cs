@@ -20,21 +20,27 @@ public class UIVictory : BaseUI
     public override void OnSetUp(UIParam param = null)
     {
         base.OnSetUp(param);
+        AdsManager.Instance.HideBanner();
         victoryParam = (VictoryParam)param;
         txtcoin.text = "x" + victoryParam.coin.ToString();
     }
     public void Claim()
     {
         // save coin
-
+        SaveManager.Instance.SaveGame.coin += victoryParam.coin;
+        SaveManager.Instance.Save();
         UIManager.Instance.HideUI(this);
     }
     public void ClaimX2()
     {
         //Show ads
-
-        // save x2 coin
-        victoryParam.coin *= 2;
-        UIManager.Instance.HideUI(this);
+        AdsManager.Instance.ShowRewardedAds(() =>
+        {
+            // save x2 coin
+            victoryParam.coin *= 2;
+            SaveManager.Instance.SaveGame.coin += victoryParam.coin;
+            SaveManager.Instance.Save();
+            UIManager.Instance.HideUI(this);
+        });
     }
 }

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa4b03ff3ca54da090b4fb86b54b6d3, type: 3}
+  m_Name: ItemConfig
+  m_EditorClassIdentifier: 
+  Datas:
+  - idItem: 1
+    name: coin
+    sprite: {fileID: 21300138, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 2
+    name: gem
+    sprite: {fileID: 21300140, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 3
+    name: ads
+    sprite: {fileID: 21300122, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 4
+    name: goldmember
+    sprite: {fileID: 21300170, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 5
+    name: freechest
+    sprite: {fileID: 21300126, guid: f652d793f93d2484e8883d6897128873, type: 3}
+  - idItem: 6
+    name: epicchest
+    sprite: {fileID: 21300128, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 7
+    name: heroicchest
+    sprite: {fileID: 21300130, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 8
+    name: lengendarychest
+    sprite: {fileID: 21300132, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
+  - idItem: 9
+    name: fragment Autobot
+    sprite: {fileID: 21300020, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 10
+    name: fragment Castuky
+    sprite: {fileID: 21300022, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 11
+    name: fragment Chicky
+    sprite: {fileID: 21300024, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 12
+    name: fragment BigBoar
+    sprite: {fileID: 21300026, guid: ecf2f21af2cae4f4184c142bcd4d2ebe, type: 3}
+  - idItem: 13
+    name: fragment Croco
+    sprite: {fileID: 21300028, guid: ecf2f21af2cae4f4184c142bcd4d2ebe, type: 3}
+  - idItem: 14
+    name: fragment AlphaX
+    sprite: {fileID: 21300030, guid: ecf2f21af2cae4f4184c142bcd4d2ebe, type: 3}
+  - idItem: 15
+    name: fragment Bunnie
+    sprite: {fileID: 21300032, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 16
+    name: fragment SpartanBoy
+    sprite: {fileID: 21300034, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 17
+    name: fragment Sharker
+    sprite: {fileID: 21300036, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 18
+    name: fragment Smush
+    sprite: {fileID: 21300038, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
+  - idItem: 19
+    name: skill AutoBot
+    sprite: {fileID: 21300220, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 20
+    name: skill Castuky
+    sprite: {fileID: 21300222, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 21
+    name: skill chicky
+    sprite: {fileID: 21300224, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 22
+    name: skill BigBoar
+    sprite: {fileID: 21300226, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 23
+    name: skill croco
+    sprite: {fileID: 21300228, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 24
+    name: skill AlphaX
+    sprite: {fileID: 21300230, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 25
+    name: skill bunnie
+    sprite: {fileID: 21300232, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}
+  - idItem: 26
+    name: skill SpartanBoy
+    sprite: {fileID: 21300234, guid: e8d7377dea1499d4ab372415f4283f97, type: 3}
+  - idItem: 27
+    name: Skill Sharker
+    sprite: {fileID: 21300236, guid: e8d7377dea1499d4ab372415f4283f97, type: 3}
+  - idItem: 28
+    name: Skill Smush
+    sprite: {fileID: 21300238, guid: 858d63f43d68f7a4c9f833e665dd40a1, type: 3}

@@ -1613,7 +1613,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7706161616521915331
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1685,7 +1685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2da7df30c66cf42b5ac25a91fbb1aeb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 0
+  uiIndex: 22
   txtGold: {fileID: 2039746584601348331}
   txtGem: {fileID: 2723216028380177016}
   txtNumberchest: {fileID: 497780818222264259}
@@ -1896,7 +1896,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4494636607476438196}
         m_TargetAssemblyTypeName: UIGoldMemberShipReward, Assembly-CSharp
-        m_MethodName: OnCloseClick
+        m_MethodName: OnClaim
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

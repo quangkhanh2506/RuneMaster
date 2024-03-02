@@ -20,31 +20,40 @@ public class UIGoldMemberShipReward : BaseUI
     [SerializeField] public TextMeshProUGUI txtNumberchest;
     [SerializeField] public List<Sprite> lsSpriteChests=new List<Sprite>();
     [SerializeField] public Image imgChest;
-
-    private void OnEnable()
-    {
-        OnSetUp(new GoldMemberShipParam { gold = 5000, gem = 100, chestIndex = ChestIndex.Heroic, numberChest = 2 });
-    }
+    private GoldMemberShipParam goldMemberShipParam;
 
     public override void OnSetUp(UIParam param = null)
     {
         base.OnSetUp(param);
-        GoldMemberShipParam goldMemberShipParam = (GoldMemberShipParam)param;
+        goldMemberShipParam = (GoldMemberShipParam)param;
         txtGold.text = goldMemberShipParam.gold.ToString();
         txtGem.text = goldMemberShipParam.gem.ToString();
         txtNumberchest.text = goldMemberShipParam.numberChest.ToString();
         imgChest.sprite = lsSpriteChests[(int)goldMemberShipParam.chestIndex];
         imgChest.SetNativeSize();
         
-        
-
     }
 
-    public override void OnCloseClick()
+    public void OnClaim()
     {
-        base.OnCloseClick();
         //Save gold and gem, chest into savegame
-
+        SaveManager.Instance.SaveGame.coin += goldMemberShipParam.gold;
+        SaveManager.Instance.SaveGame.gem += goldMemberShipParam.gem;
+        switch (goldMemberShipParam.chestIndex)
+        {
+            case ChestIndex.Epic:
+                SaveManager.Instance.SaveGame.chestEpic += goldMemberShipParam.numberChest;
+                break;
+            case ChestIndex.Heroic:
+                SaveManager.Instance.SaveGame.chestHeroic += goldMemberShipParam.numberChest;
+                break;
+            case ChestIndex.Legendary:
+                SaveManager.Instance.SaveGame.chestLegendary += goldMemberShipParam.numberChest;
+                break;
+            default:
+                SaveManager.Instance.SaveGame.chestFree += goldMemberShipParam.numberChest;
+                break;
+        }
         //Show UI chest
 
         UIManager.Instance.HideUI(this);

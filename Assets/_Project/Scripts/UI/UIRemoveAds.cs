@@ -12,6 +12,7 @@ public class RemoveAdsParam : UIParam
 public class UIRemoveAds : BaseUI
 {
     [SerializeField] public TextMeshProUGUI txtCoin;
+    private RemoveAdsParam removeAdsParam;
 
     private void OnEnable()
     {
@@ -21,7 +22,7 @@ public class UIRemoveAds : BaseUI
     public override void OnSetUp(UIParam param = null)
     {
         base.OnSetUp(param);
-        RemoveAdsParam removeAdsParam = (RemoveAdsParam)param;
+        removeAdsParam = (RemoveAdsParam)param;
         txtCoin.text = removeAdsParam.coin.ToString();       
     }
 
@@ -29,7 +30,8 @@ public class UIRemoveAds : BaseUI
     {
         base.OnCloseClick();
         // Save coin
-
+        SaveManager.Instance.SaveGame.coin += removeAdsParam.coin;
+        SaveManager.Instance.Save();
         // Purchase
 
 

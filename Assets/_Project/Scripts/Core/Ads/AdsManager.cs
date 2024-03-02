@@ -20,7 +20,6 @@ public class AdsManager : SingletonMono<AdsManager>
         maxAppLovin = new MAXAds(this, maxSDKKey, maxIOSBannerID, maxAndroidBannerID, maxIOSInterID, maxAndroidInterID, maxIOSrewardID,
             maxAndroidrewardID, RewardCallback, OpenedCallback, ClosedCallback);
         maxAppLovin.Init();
-        ShowBanner();
     }
 
     private void ClosedCallback()

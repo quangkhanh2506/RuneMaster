@@ -981,13 +981,14 @@ GameObject:
   - component: {fileID: 3438028962243156415}
   - component: {fileID: 7917079156754968610}
   - component: {fileID: 4561730103590573058}
+  - component: {fileID: 2317751868493302844}
   m_Layer: 5
   m_Name: UIPromotion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5269572117587654842
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1062,7 +1063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3701f5f19da404ea69f9e81c4cf8554c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 0
+  uiIndex: 19
   lsSpriteRanks:
   - {fileID: 21300064, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   - {fileID: 21300066, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
@@ -1070,3 +1071,24 @@ MonoBehaviour:
   - {fileID: 21300070, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   - {fileID: 21300072, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   imgRank: {fileID: 307957265686454182}
+--- !u!95 &2317751868493302844
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8329107508078920709}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f52e28320441a40868dbeac7f1d712ab, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
