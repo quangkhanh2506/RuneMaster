@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using DG.Tweening;
 
 public class AdsManager : SingletonMono<AdsManager>
 {
@@ -24,7 +25,7 @@ public class AdsManager : SingletonMono<AdsManager>
 
     private void ClosedCallback()
     {
-
+        DOTween.PlayAll();
     }
 
     private void OpenedCallback()

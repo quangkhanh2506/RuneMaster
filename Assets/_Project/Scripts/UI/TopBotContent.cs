@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using Core;
 
 public class TopBotContent : SingletonMono<TopBotContent>
 {
@@ -56,10 +57,27 @@ public class TopBotContent : SingletonMono<TopBotContent>
     {
         Topbar.transform.GetChild(0).gameObject.SetActive(false);
     }
+    public void ShowAvatar()
+    {
+        Topbar.transform.GetChild(0).gameObject.SetActive(true);
+    }
 
     public void hideBotBar()
     {
         Botbar.SetActive(false);
+    }
+
+    public void Click_UIOpenChest()
+    {
+        UIManager.Instance.HideAllUI();
+        HideAvatar();
+        UIManager.Instance.ShowUI(UIIndex.UIChest);
+    }
+    public void Click_Battle()
+    {
+        UIManager.Instance.HideAllUI();
+        ShowAvatar();
+        UIManager.Instance.ShowUI(UIIndex.UIMain);
     }
 
     

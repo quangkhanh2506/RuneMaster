@@ -1711,7 +1711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a77fd2f2896a4cc091b13ae43bbd8bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 27
+  uiIndex: 28
   txtCoin: {fileID: 5503503584485679516}
 --- !u!1 &8518498326591000223
 GameObject:

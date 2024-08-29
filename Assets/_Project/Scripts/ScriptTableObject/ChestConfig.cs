@@ -14,7 +14,6 @@ public class ChestConfig : ScriptableObject
     {
 
         instance = Resources.Load<ChestConfig>("Configs/ChestConfig");
-        Debug.Log(instance == null ? "NULL" : "Not NULL");
     }
 
     public static ChestConfigData GetConfigByID(int ChestID)

@@ -2149,7 +2149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f44e94ae43da1459aa658d337ba2ebb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 23
+  uiIndex: 24
   lsIconTournament:
   - {fileID: 21300160, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}
   - {fileID: 21300162, guid: 7fd9773fc3b96534c8a428d99b0c6b90, type: 3}

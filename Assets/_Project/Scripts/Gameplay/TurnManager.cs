@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Core;
 
 public class TurnManager : SingletonMono<TurnManager>
 {
@@ -11,22 +12,20 @@ public class TurnManager : SingletonMono<TurnManager>
 
     private List<CreateShape> enemyShapes = new List<CreateShape>();
 
-    [HideInInspector] public int isWin, isLose;
+    [HideInInspector] public int isLose;
 
     private float timer;
 
-    private void Awake()
+    public int GetTurn()
     {
-        
-        ReGame();
+        return Turn;
     }
-
-    private void Start()
+    public void StartTurnManager()
     {
         
         for (int i = 0; i < Grid.Instance.shapeStore.createShapes.Count; i++)
         {
-            if (i < 3)
+            if (i >= 3)
             {
                 myShapes.Add(Grid.Instance.shapeStore.createShapes[i]);
             }
@@ -38,9 +37,8 @@ public class TurnManager : SingletonMono<TurnManager>
     }
     public void ReGame()
     {
-        Turn = -1;
+        Turn = 0;
         timer = 20;
-        isWin = 0;
         isLose = 0;
     }
 
@@ -51,30 +49,35 @@ public class TurnManager : SingletonMono<TurnManager>
         {
             ChangeTurn();
             GameEvent.MoveShapeToStartPosition();
+            if (Turn % 2 == 0)
+            {
+                if(CheckResults() != 1 && CheckResults() != -1)
+                {
+                    Grid.Instance.PutShapeEnemy();
+                }
+                
+            }
         }
         
     }
 
-    public void CheckResults()
+    public int CheckResults()
     {
-        foreach (var item in myShapes)
+        var shapes = Turn % 2 == 1 ? myShapes : enemyShapes;
+        int numberShapeNotNull = 0;
+        foreach (var item in shapes)
         {
-            if (!item.IsDrag && item.gameObject.transform.GetChild(0).gameObject.transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>().sprite == item.DisableDrag) isLose++;
-        }
-        foreach (var item in enemyShapes)
-        {
-            if (!item.IsDrag && item.gameObject.transform.GetChild(0).gameObject.transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>().sprite == item.DisableDrag) isWin++;
-        }
+            if (item.transform.childCount == 0) continue;
 
-        if (isWin==3 && isLose==3)
-        {
-            if (Turn % 2 == 0) Debug.Log("Lose");
-            else Debug.Log("Win");
+            numberShapeNotNull++;
+            if (!item.IsDrag && item.gameObject.transform.GetChild(0).gameObject.transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>().sprite == item.DisableDrag)
+                isLose++;
         }
-        else if (isWin==3) Debug.Log("WIN");
-        else if (isLose==3) Debug.Log("LOSE");
+        if ((isLose == numberShapeNotNull && numberShapeNotNull!=0) && Turn % 2 == 1) return -1;
+        else if ((isLose == numberShapeNotNull && numberShapeNotNull != 0) && Turn % 2 == 0) return 1;
+        
         isLose = 0;
-        isWin = 0;
+        return 0;
     }
 
     public void ChangeTurn()

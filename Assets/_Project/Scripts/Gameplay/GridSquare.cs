@@ -16,13 +16,6 @@ public class GridSquare : MonoBehaviour
     public int SquareIndex { get; set; }
     public bool SquareOccupied { get; set; }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        Selected = false;
-        SquareOccupied = false;
-    }
-
     public bool CanWeUseThisSquare()
     {
         return hoverImage.gameObject.activeSelf;
@@ -34,6 +27,16 @@ public class GridSquare : MonoBehaviour
         hoverImage.gameObject.SetActive(false);
         ActiveImage.gameObject.SetActive(true);
         ActiveImage.sprite = collisionImage;
+        Selected = true;
+        SquareOccupied = true;
+    }
+
+    public void ActivateSquareEnemy(Sprite sprite)
+    {
+
+        hoverImage.gameObject.SetActive(false);
+        ActiveImage.gameObject.SetActive(true);
+        ActiveImage.sprite = sprite;
         Selected = true;
         SquareOccupied = true;
     }
@@ -61,6 +64,7 @@ public class GridSquare : MonoBehaviour
         {
             hoverImage.gameObject.SetActive(true);
             collisionImage = collision.gameObject.GetComponent<SpriteRenderer>().sprite;
+
         }
     }
 
@@ -78,6 +82,7 @@ public class GridSquare : MonoBehaviour
         if (collision.gameObject.layer != LayerMask.NameToLayer("PositionShape"))
         {
             hoverImage.gameObject.SetActive(true);
+            collisionImage = collision.gameObject.GetComponent<SpriteRenderer>().sprite;
         }
     }
 

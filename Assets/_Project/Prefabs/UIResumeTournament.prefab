@@ -1061,7 +1061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2cbd28fbfc1641218aa352dd36cb280, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 26
+  uiIndex: 27
   lsSpritesCharacter:
   - {fileID: 21300020, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
   - {fileID: 21300022, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}

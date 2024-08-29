@@ -13,10 +13,6 @@ public class UIVictory : BaseUI
     [SerializeField] public TextMeshProUGUI txtcoin;
     private VictoryParam victoryParam;
 
-    private void OnEnable()
-    {
-        OnSetUp(new VictoryParam { coin = 1000 });
-    }
     public override void OnSetUp(UIParam param = null)
     {
         base.OnSetUp(param);
@@ -29,6 +25,9 @@ public class UIVictory : BaseUI
         // save coin
         SaveManager.Instance.SaveGame.coin += victoryParam.coin;
         SaveManager.Instance.Save();
+        Grid.Instance.ResetMatch();
+        UIManager.Instance.ShowUI(UIIndex.UIMain);
+        UIManager.Instance.HideUI(UIIndex.UIGame_normal);
         UIManager.Instance.HideUI(this);
     }
     public void ClaimX2()
@@ -40,6 +39,9 @@ public class UIVictory : BaseUI
             victoryParam.coin *= 2;
             SaveManager.Instance.SaveGame.coin += victoryParam.coin;
             SaveManager.Instance.Save();
+            Grid.Instance.ResetMatch();
+            UIManager.Instance.ShowUI(UIIndex.UIMain);
+            UIManager.Instance.HideUI(UIIndex.UIGame_normal);
             UIManager.Instance.HideUI(this);
         });
     }

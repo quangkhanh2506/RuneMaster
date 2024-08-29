@@ -25,7 +25,7 @@ public class SaveManager : SingletonMono<SaveManager>
         yield return new WaitForSeconds(3f);
         UIManager.Instance.Init(() =>
         {
-            UIManager.Instance.ShowUI(UIIndex.UIChest);
+            UIManager.Instance.ShowUI(UIIndex.UIMain);
         });
     }
 

@@ -42,12 +42,12 @@ public class CreateShape : MonoBehaviour
         this.transform.localPosition = startPosition;
     }
 
-    private void Awake()
+    public void AwakeCreateShape()
     {
         IsDrag = true;
     }
 
-    private void Start()
+    public void StartCreateShape()
     {
         startPosition = this.transform.localPosition;
         

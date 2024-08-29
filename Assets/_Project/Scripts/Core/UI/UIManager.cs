@@ -146,6 +146,7 @@ namespace Core
         UIPromotion,
         UIRelegated,
         UIVictory,
+        UIDefeat,
         UIGoldMemBerShip,
         UITournament,
         UIChangeName,
@@ -153,6 +154,8 @@ namespace Core
         UIResumeTournament,
         UIRemoveAds,
         UIUnlockCharacter,
+        UIGame_normal,
+        UIVS,
         COUNT,
     }
 }

@@ -12,11 +12,12 @@ public class ShapeStore : MonoBehaviour
     [HideInInspector]
     public GameObject currentShape;
 
+    [HideInInspector]
+    public int numberMyShapes;
 
-    private void Start()
-    {
-        StoreCreateShape();
-    }
+
+    [HideInInspector]
+    public int numberEnemyShapes;
 
     // Start is called before the first frame update
 
@@ -27,15 +28,37 @@ public class ShapeStore : MonoBehaviour
 
     public void StoreCreateShape()
     {
-        foreach (var shape in createShapes)
+        numberMyShapes = numberEnemyShapes = 3;
+        for (int i = 0; i < createShapes.Count; i++)
         {
-            if (shape.gameObject.transform.childCount == 0)
+            createShapes[i].AwakeCreateShape();
+            createShapes[i].StartCreateShape();
+            if (createShapes[i].gameObject.transform.childCount == 0)
             {
                 var shapeIndex = UnityEngine.Random.Range(0, LsPrefabs.Count);
                 GameObject goClone = Instantiate(LsPrefabs[shapeIndex]);
-                shape.Create_Shape(goClone);
+                createShapes[i].Create_Shape(goClone);
             }
         }
+    }
+
+    public void RefeshThreeShape(bool myShape)
+    {
+        int start = myShape ? 3 : 0;
+        int end = myShape ? 6 : 3;
+        for (int i = start; i < end; i++)
+        {
+            createShapes[i].AwakeCreateShape();
+            createShapes[i].StartCreateShape();
+            if (createShapes[i].gameObject.transform.childCount == 0)
+            {
+                var shapeIndex = UnityEngine.Random.Range(0, LsPrefabs.Count);
+                GameObject goClone = Instantiate(LsPrefabs[shapeIndex]);
+                createShapes[i].Create_Shape(goClone);
+            }
+        }
+        if (myShape) numberMyShapes = 3;
+        else numberEnemyShapes = 3;
     }
 
     public void RefeshPositionShape()
@@ -47,7 +70,7 @@ public class ShapeStore : MonoBehaviour
     {
         foreach (var shape in createShapes)
         {
-            if (shape.gameObject.transform.GetChild(0) != null)
+            if (shape.gameObject.transform.childCount > 0)
             {
                 Destroy(shape.gameObject.transform.GetChild(0).gameObject);
             }

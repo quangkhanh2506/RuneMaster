@@ -98,7 +98,6 @@ public class UIOpenchest : BaseUI
         {
             horizontalScrollSnap.GoToScreen(indexReward);
             yield return new WaitForSeconds(0.1f); // Adjust the delay as needed
-            Debug.Log(indexReward);
             indexReward += 7;
         }
         horizontalScrollSnap.RestartOnEnable = true;

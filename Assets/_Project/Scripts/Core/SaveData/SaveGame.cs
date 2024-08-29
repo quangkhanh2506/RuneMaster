@@ -7,7 +7,7 @@ using System;
 public class SaveGame
 {
 
-    private List<HeroIndex> lsIDHeroPurchased = new List<HeroIndex>();
+    public List<HeroIndex> lsIDHeroPurchased = new List<HeroIndex>();
     public RankIdex curRankIdex;
     public HeroIndex curHeroIndex;
     public int curAvatarIndex;
@@ -48,7 +48,7 @@ public class SaveGame
         if (firstOpen == 0)
         {
             Debug.Log("Init file save game");
-            coin = 0;
+            coin = 10000;
             gem = 3000;
             curHeroIndex = HeroIndex.AutoBot;
             curRankIdex = RankIdex.Bronze;

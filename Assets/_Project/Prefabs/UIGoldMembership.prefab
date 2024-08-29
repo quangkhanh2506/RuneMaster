@@ -1685,7 +1685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2da7df30c66cf42b5ac25a91fbb1aeb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 22
+  uiIndex: 23
   txtGold: {fileID: 2039746584601348331}
   txtGem: {fileID: 2723216028380177016}
   txtNumberchest: {fileID: 497780818222264259}

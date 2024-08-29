@@ -332,7 +332,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6351776741451127078}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3239963554754006659}
+        m_TargetAssemblyTypeName: UIPause, Assembly-CSharp
+        m_MethodName: Click_CloseUI
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1032682674538604096
 GameObject:
   m_ObjectHideFlags: 0
@@ -589,7 +601,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1356568341734469597}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3239963554754006659}
+        m_TargetAssemblyTypeName: UIPause, Assembly-CSharp
+        m_MethodName: Click_GiveUp
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &2353176529774886215
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,7 +735,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3993737688573260586}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3239963554754006659}
+        m_TargetAssemblyTypeName: UIPause, Assembly-CSharp
+        m_MethodName: CLick_Restart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &3358260964508419089
 GameObject:
   m_ObjectHideFlags: 0
@@ -1273,7 +1309,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: RESUME
+  m_text: RESART
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 012853df3f6b4c240b9239790b5e7210, type: 2}
   m_sharedMaterial: {fileID: 21908925758437606, guid: 012853df3f6b4c240b9239790b5e7210, type: 2}
@@ -1702,13 +1738,14 @@ GameObject:
   - component: {fileID: 7653919414339093460}
   - component: {fileID: 8325691029895114514}
   - component: {fileID: 8171696257635841256}
+  - component: {fileID: 3239963554754006659}
   m_Layer: 5
   m_Name: UIPause
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7653919414339093460
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1745,7 +1782,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8558622306749527174}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1768,6 +1805,19 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3239963554754006659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8558622306749527174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd9d177f902f4e92a4ada159b9919b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiIndex: 9
 --- !u!1 &8869318362759471095
 GameObject:
   m_ObjectHideFlags: 0

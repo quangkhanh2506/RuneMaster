@@ -8,4 +8,6 @@ public class GameEvent : MonoBehaviour
     public static Action MoveShapeToStartPosition;
 
     public static Action CheckIfShapeCanbePlaced;
+
+    public static Action CheckIfShapeEnemyCanbePlaced;
 }

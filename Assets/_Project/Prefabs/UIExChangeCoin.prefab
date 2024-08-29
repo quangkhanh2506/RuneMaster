@@ -2322,7 +2322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6589c30773044e93ac9d4a59f37e797, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 25
+  uiIndex: 26
   txtGemChange: {fileID: 7726123292963459679}
   txtCoinChange: {fileID: 7762740974304398390}
   txtInputPrice: {fileID: 2524685889797707445}

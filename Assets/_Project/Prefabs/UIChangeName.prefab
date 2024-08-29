@@ -935,7 +935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac963d5405d8c42ebaae4afc9e01acc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 24
+  uiIndex: 25
   txtInputName: {fileID: 9183624970660255672}
 --- !u!1 &3234999044522639232
 GameObject:

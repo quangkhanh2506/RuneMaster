@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d05eea983abab4178bcdba764093b7af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiIndex: 28
+  uiIndex: 29
   lsSpriteCharacters:
   - {fileID: 21300020, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
   - {fileID: 21300022, guid: 0d8e382e3eaa1fd499a7b05f2934d52e, type: 3}
