@@ -20,7 +20,6 @@ public class TopBotContent : SingletonMono<TopBotContent>
     private void OnEnable()
     {
         Setup();
-        Debug.Log(SaveManager.Instance.SaveGame.curAvatarIndex);
     }
 
     public void Setup()

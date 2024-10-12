@@ -23,7 +23,6 @@ public class ItemDailyGift : MonoBehaviour
 
     public void SetupItem(int isDay, int day, DailygiftItemData dailygiftItemData)
     {
-        Debug.Log(isDay);
         if (isDay == 0)
         {
             if (isClaim)

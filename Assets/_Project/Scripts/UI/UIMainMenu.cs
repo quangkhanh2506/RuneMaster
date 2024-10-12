@@ -38,7 +38,7 @@ public class UIMainMenu : BaseUI
         BotTournamet.SetActive(false);
         Heart.SetActive(false);
         TopBotCanvas.SetActive(true);
-        //btnDailyGift.SetActive(uIDailyGift.CheckClaimed());
+        btnDailyGift.SetActive(uIDailyGift.CheckClaimed());
         idCharacter = (int)SaveManager.Instance.SaveGame.curHeroIndex;
         imgCharacter.sprite = LsSpritesCharacters[idCharacter];
         imgCharacter.SetNativeSize();
@@ -63,7 +63,7 @@ public class UIMainMenu : BaseUI
 
     public void On_ClickSuperGift()
     {
-        TopBotCanvas.SetActive(false);
+        //TopBotCanvas.SetActive(false);
         UIManager.Instance.ShowUI(UIIndex.UISuperGifts, new SuperGiftParam
         {
             lsRewardSuperGifts = new List<RewardSuperGift>() { new RewardSuperGift { coin = 200 },

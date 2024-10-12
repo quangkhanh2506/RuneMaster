@@ -25,26 +25,28 @@ public class UISecondChance : BaseUI
         timer = secondChanceParam.countdown;
         imgFill.fillAmount = 1;
 
-        if (secondChanceParam.resetgame)
+        if (secondChanceParam.resetgame < 2)
         {
-            btnRevivalByAds.SetActive(true);
-            btnRevivalByGem.SetActive(true);
-            btnRevivalByAds.transform.localPosition = new Vector3(195, 0);
-            btnRevivalByGem.transform.localPosition = new Vector3(-195, 0);
-        
+            if (secondChanceParam.resetgame < 1)
+            {
+                btnRevivalByAds.SetActive(true);
+                btnRevivalByGem.SetActive(true);
+                btnRevivalByAds.transform.localPosition = new Vector3(195, 0);
+                btnRevivalByGem.transform.localPosition = new Vector3(-195, 0);
+            }
 
-        btnRevivalByGem.GetComponent<Button>().interactable = SaveManager.Instance.SaveGame.gem <= gem ? false : true;
+            btnRevivalByGem.GetComponent<Button>().interactable = SaveManager.Instance.SaveGame.gem <= gem ? false : true;
 
-        DOTween.To(() => imgFill.fillAmount, x => imgFill.fillAmount = x, 0, timer).OnComplete(() =>
-        {
-            UIManager.Instance.HideUI(this);
-            UIManager.Instance.ShowUI(UIIndex.UIDefeat);
-        });
+            DOTween.To(() => imgFill.fillAmount, x => imgFill.fillAmount = x, 0, timer).OnComplete(() =>
+            {
+                UIManager.Instance.HideUI(this);
+                UIManager.Instance.ShowUI(UIIndex.UIDefeat, new DefeatParam { coin = 100 });
+            });
         }
         else
         {
             UIManager.Instance.HideUI(this);
-            UIManager.Instance.ShowUI(UIIndex.UIDefeat);
+            UIManager.Instance.ShowUI(UIIndex.UIDefeat, new DefeatParam { coin = 100 });
         }
     }
 
@@ -72,7 +74,7 @@ public class UISecondChance : BaseUI
             Grid.Instance.ResetSecondChange();
             UIManager.Instance.HideUI(this);
         });
-        
+
     }
 }
 
@@ -80,5 +82,5 @@ public class SecondChanceParam : UIParam
 {
     public int gem;
     public float countdown;
-    public bool resetgame;
+    public int resetgame;
 }

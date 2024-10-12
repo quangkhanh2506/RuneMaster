@@ -17,7 +17,7 @@ public class Grid : SingletonMono<Grid>
     public float everySquareOffset = 0f;
     public ShapeStore shapeStore;
     public LineIndicator lineIndicator;
-    private bool resetGame = true;
+    private int resetGame = 0;
 
 
     private Vector2 _offset = new Vector2(0f, 0f);
@@ -834,7 +834,7 @@ public class Grid : SingletonMono<Grid>
             square.GetComponent<GridSquare>().DeActivate();
             square.GetComponent<GridSquare>().ClearOccupied();
         }
-        resetGame = true;
+        resetGame = 0;
         shapeStore.RefeshPositionShape();
         TurnManager.Instance.ReGame();
         TurnManager.Instance.ChangeTurn();
@@ -846,9 +846,10 @@ public class Grid : SingletonMono<Grid>
             square.GetComponent<GridSquare>().DeActivate();
             square.GetComponent<GridSquare>().ClearOccupied();
         }
-        resetGame = false;
+        resetGame++;
         shapeStore.RefeshPositionShape();
         TurnManager.Instance.ReGame();
         TurnManager.Instance.ChangeTurn();
+        SetupGameplay();
     }
 }
